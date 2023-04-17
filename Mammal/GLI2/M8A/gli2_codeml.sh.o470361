@@ -1,0 +1,208 @@
+
+ 15         verbose | verbose                1.00
+  7         runmode | runmode                0.00
+  4         seqtype | seqtype                1.00
+ 13       CodonFreq | CodonFreq              1.00
+  9           clock | clock                  0.00
+ 18          aaDist | aaDist                 0.00
+ 16           model | model                  0.00
+ 20         NSsites | NSsites                8.00
+ 22           icode | icode                  0.00
+ 23           Mgene | Mgene                  0.00
+ 24       fix_kappa | fix_kappa              0.00
+ 25           kappa | kappa                  2.00
+ 26       fix_omega | fix_omega              1.00
+ 27           omega | omega                  1.00
+ 28       fix_alpha | fix_alpha              1.00
+ 29           alpha | alpha                  0.00
+ 30          Malpha | Malpha                 0.00
+ 31           ncatG | ncatG                  5.00
+ 11           getSE | getSE                  1.00
+ 12    RateAncestor | RateAncestor           0.00
+ 36      Small_Diff | Small_Diff             0.00
+  6       cleandata | cleandata              0.00
+  8          method | method                 0.00
+CODONML in paml version 4.9h, March 2018
+
+----------------------------------------------
+Phe F TTT | Ser S TCT | Tyr Y TAT | Cys C TGT
+      TTC |       TCC |       TAC |       TGC
+Leu L TTA |       TCA | *** * TAA | *** * TGA
+      TTG |       TCG |       TAG | Trp W TGG
+----------------------------------------------
+Leu L CTT | Pro P CCT | His H CAT | Arg R CGT
+      CTC |       CCC |       CAC |       CGC
+      CTA |       CCA | Gln Q CAA |       CGA
+      CTG |       CCG |       CAG |       CGG
+----------------------------------------------
+Ile I ATT | Thr T ACT | Asn N AAT | Ser S AGT
+      ATC |       ACC |       AAC |       AGC
+      ATA |       ACA | Lys K AAA | Arg R AGA
+Met M ATG |       ACG |       AAG |       AGG
+----------------------------------------------
+Val V GTT | Ala A GCT | Asp D GAT | Gly G GGT
+      GTC |       GCC |       GAC |       GGC
+      GTA |       GCA | Glu E GAA |       GGA
+      GTG |       GCG |       GAG |       GGG
+----------------------------------------------
+Nice code, uuh?
+
+
+Ambiguity character definition table:
+
+T (1): T 
+C (1): C 
+A (1): A 
+G (1): G 
+U (1): T 
+Y (2): T C 
+R (2): A G 
+M (2): C A 
+K (2): T G 
+S (2): C G 
+W (2): T A 
+H (3): T C A 
+B (3): T C G 
+V (3): C A G 
+D (3): T A G 
+- (4): T C A G 
+N (4): T C A G 
+? (4): T C A G 
+ns = 16  	ls = 4491
+Reading sequences, sequential format..
+Reading seq # 1: Eptesicus_fuscus       
+Reading seq # 2: Rattus_norvegicus       
+Reading seq # 3: Mus_musculus       
+Reading seq # 4: Canis_lupus_familiaris       
+Reading seq # 5: Bos_taurus       
+Reading seq # 6: Ovis_aries       
+Reading seq # 7: Sus_scrofa       
+Reading seq # 8: Equus_caballus       
+Reading seq # 9: Tupaia_chinensis       
+Reading seq #10: Callithrix_jacchus       
+Reading seq #11: Macaca_mulatta       
+Reading seq #12: Pongo_pygmaeus       
+Reading seq #13: Gorilla_gorilla       
+Reading seq #14: Homo_sapiens       
+Reading seq #15: Pan_paniscus       
+Reading seq #16: Pan_troglodytes       
+stop codon TGA in seq. #   9 (Tupaia_chinensis), nucleotide site 994stop codon TGA in seq. #   4 (Canis_lupus_familiaris), nucleotide site 1048stop codon TAA in seq. #   4 (Canis_lupus_familiaris), nucleotide site 1051stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 1312stop codon TGA in seq. #   7 (Sus_scrofa), nucleotide site 1324stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 1507stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 1537stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 1840stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 1927stop codon TAG in seq. #   1 (Eptesicus_fuscus), nucleotide site 1945stop codon TGA in seq. #   2 (Rattus_norvegicus), nucleotide site 1954stop codon TAA in seq. #   2 (Rattus_norvegicus), nucleotide site 1978stop codon TGA in seq. #   2 (Rattus_norvegicus), nucleotide site 2047stop codon TGA in seq. #   2 (Rattus_norvegicus), nucleotide site 2131stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 2146stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 2155stop codon TGA in seq. #   2 (Rattus_norvegicus), nucleotide site 2197stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 2215stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 2392stop codon TGA in seq. #   8 (Equus_caballus), nucleotide site 2416stop codon TAA in seq. #   3 (Mus_musculus), nucleotide site 2482stop codon TGA in seq. #   9 (Tupaia_chinensis), nucleotide site 2488stop codon TAG in seq. #  11 (Macaca_mulatta), nucleotide site 2500stop codon TAG in seq. #   2 (Rattus_norvegicus), nucleotide site 2509stop codon TGA in seq. #   2 (Rattus_norvegicus), nucleotide site 2620stop codon TAA in seq. #   2 (Rattus_norvegicus), nucleotide site 2629stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 2653stop codon TGA in seq. #   2 (Rattus_norvegicus), nucleotide site 2671stop codon TGA in seq. #   2 (Rattus_norvegicus), nucleotide site 2749stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 2788stop codon TAG in seq. #   6 (Ovis_aries), nucleotide site 2806stop codon TAG in seq. #   2 (Rattus_norvegicus), nucleotide site 2830stop codon TGA in seq. #   2 (Rattus_norvegicus), nucleotide site 2839stop codon TGA in seq. #   2 (Rattus_norvegicus), nucleotide site 2896stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 2917stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 2935stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 2980stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 3025stop codon TAA in seq. #   2 (Rattus_norvegicus), nucleotide site 3034stop codon TAA in seq. #   8 (Equus_caballus), nucleotide site 3088stop codon TAA in seq. #  10 (Callithrix_jacchus), nucleotide site 3163stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 3184stop codon TAA in seq. #   7 (Sus_scrofa), nucleotide site 3250stop codon TAG in seq. #   2 (Rattus_norvegicus), nucleotide site 3301stop codon TAG in seq. #  14 (Homo_sapiens), nucleotide site 3322stop codon TAG in seq. #   2 (Rattus_norvegicus), nucleotide site 3568stop codon TGA in seq. #   5 (Bos_taurus), nucleotide site 3607stop codon TAG in seq. #   1 (Eptesicus_fuscus), nucleotide site 3625stop codon TAG in seq. #   1 (Eptesicus_fuscus), nucleotide site 3628stop codon TAG in seq. #   7 (Sus_scrofa), nucleotide site 3634stop codon TAG in seq. #   2 (Rattus_norvegicus), nucleotide site 3784stop codon TAG in seq. #   5 (Bos_taurus), nucleotide site 3829stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 3862stop codon TAG in seq. #   2 (Rattus_norvegicus), nucleotide site 3877stop codon TAA in seq. #  12 (Pongo_pygmaeus), nucleotide site 3985stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 4096stop codon TGA in seq. #   5 (Bos_taurus), nucleotide site 4114stop codon TGA in seq. #   2 (Rattus_norvegicus), nucleotide site 4189stop codon TAG in seq. #   3 (Mus_musculus), nucleotide site 4225stop codon TGA in seq. #   5 (Bos_taurus), nucleotide site 4249stop codon TGA in seq. #   2 (Rattus_norvegicus), nucleotide site 4264stop codon TGA in seq. #   2 (Rattus_norvegicus), nucleotide site 4270stop codon TGA in seq. #   1 (Eptesicus_fuscus), nucleotide site 4285stop codon TGA in seq. #   3 (Mus_musculus), nucleotide site 4291stop codon TGA in seq. #   2 (Rattus_norvegicus), nucleotide site 4462
+65 columns are converted into ??? because of stop codons
+Press Enter to continue
+Sequences read..
+Counting site patterns..  0:00
+Compressing,   1203 patterns at   1497 /   1497 sites (100.0%),  0:00
+Collecting fpatt[] & pose[],   1203 patterns at   1497 /   1497 sites (100.0%),  0:00
+28 ambiguous codons are seen in the data:
+ --- --G -GG ??? G-- TA- A-- -CA CA- C-- -TG -CC -GT -TC -AA CC- --C -GC CG- GC- T-- -AG -TT -CT --A GA- AC- --T
+Counting codons..
+
+      960 bytes for distance
+  1174128 bytes for conP
+    57744 bytes for fhK
+  5000000 bytes for space
+
+TREE #  1
+((((4, 8), ((5, 6), 7)), 1), ((2, 3), ((10, (((13, (14, (15, 16))), 12), 11)), 9)));   MP score: -1
+This is a rooted tree, without clock.  Check.
+
+  8805960 bytes for conP, adjusted
+
+    0.055490    0.040016    0.069308    0.051245    0.055659    0.022887    0.021066    0.010844    0.095808    0.067826    0.015126    0.030096    0.106169    0.090273    0.061142    0.109182    0.026616    0.044606    0.018958    0.045803    0.105023    0.023506    0.034420    0.049527    0.093570    0.011899    0.041097    0.044322    0.097691    0.106436    2.000000    0.900000    0.801210    1.977124
+
+ntime & nrate & np:    30     1    34
+
+Bounds (np=34):
+   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000100   0.000010   0.005000   0.005000
+  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000 999.000000   0.999990  99.000000  99.000000
+Qfactor_NS = 7.907627
+
+np =    34
+lnL0 = -22696.274841
+
+Iterating by ming2
+Initial: fx= 22696.274841
+x=  0.05549  0.04002  0.06931  0.05124  0.05566  0.02289  0.02107  0.01084  0.09581  0.06783  0.01513  0.03010  0.10617  0.09027  0.06114  0.10918  0.02662  0.04461  0.01896  0.04580  0.10502  0.02351  0.03442  0.04953  0.09357  0.01190  0.04110  0.04432  0.09769  0.10644  2.00000  0.90000  0.80121  1.97712
+
+  1 h-m-p  0.0000 0.0000 17268.4081 ++    21678.269898  m 0.0000    39 | 0/34
+  2 h-m-p  0.0000 0.0000 33184.2505 ++    21509.063664  m 0.0000    76 | 0/34
+  3 h-m-p  0.0000 0.0000 5864.2656 ++    21463.496155  m 0.0000   113 | 1/34
+  4 h-m-p  0.0000 0.0000 5717.3321 +CYYCCC 21309.685757  5 0.0000   160 | 1/34
+  5 h-m-p  0.0000 0.0000 34802.2439 +YYCYYC 21175.285521  5 0.0000   205 | 0/34
+  6 h-m-p  0.0000 0.0000 85957.0753 CC    21173.753461  1 0.0000   244 | 0/34
+  7 h-m-p  0.0000 0.0000 6193.5162 +YYYCCC 21126.969980  5 0.0000   289 | 0/34
+  8 h-m-p  0.0000 0.0000 4548.1658 ++    21059.106348  m 0.0000   326 | 0/34
+  9 h-m-p  0.0000 0.0000 5138.3611 +CCC  21001.858542  2 0.0000   368 | 0/34
+ 10 h-m-p  0.0000 0.0000 1911.1442 +CYCC 20980.221614  3 0.0000   411 | 0/34
+ 11 h-m-p  0.0000 0.0001 1898.1557 +YCCCC 20946.694272  4 0.0000   456 | 0/34
+ 12 h-m-p  0.0000 0.0002 892.6084 +YCCC 20918.417902  3 0.0001   499 | 0/34
+ 13 h-m-p  0.0001 0.0004 1279.0902 YCCC  20905.718218  3 0.0001   541 | 0/34
+ 14 h-m-p  0.0001 0.0004 785.1738 CCCC  20888.751214  3 0.0001   584 | 0/34
+ 15 h-m-p  0.0001 0.0004 903.1671 YCCC  20865.317917  3 0.0002   626 | 0/34
+ 16 h-m-p  0.0001 0.0004 1451.9008 YCCC  20841.709355  3 0.0001   668 | 0/34
+ 17 h-m-p  0.0001 0.0003 2024.1903 +YYCCC 20792.744616  4 0.0002   712 | 0/34
+ 18 h-m-p  0.0001 0.0003 5466.9566 YCC   20741.693441  2 0.0001   752 | 0/34
+ 19 h-m-p  0.0001 0.0003 3487.9036 YCCC  20697.819306  3 0.0001   794 | 0/34
+ 20 h-m-p  0.0000 0.0002 1131.2228 YC    20688.238936  1 0.0001   832 | 0/34
+ 21 h-m-p  0.0001 0.0006 398.5670 YC    20686.231930  1 0.0001   870 | 0/34
+ 22 h-m-p  0.0002 0.0015 137.0323 CC    20685.165162  1 0.0002   909 | 0/34
+ 23 h-m-p  0.0002 0.0017 127.5720 YC    20684.541294  1 0.0001   947 | 0/34
+ 24 h-m-p  0.0001 0.0018 144.1799 CC    20684.045156  1 0.0001   986 | 0/34
+ 25 h-m-p  0.0001 0.0008 271.4405 +CCC  20682.426447  2 0.0002  1028 | 0/34
+ 26 h-m-p  0.0001 0.0004 394.5419 ++    20675.051374  m 0.0004  1065 | 0/34
+ 27 h-m-p  0.0000 0.0000 846.2596 
+h-m-p:      1.98020956e-21      9.90104778e-21      8.46259567e+02 20675.051374
+..  | 0/34
+ 28 h-m-p  0.0000 0.0000 2291.8048 ++    20667.931214  m 0.0000  1136 | 0/34
+ 29 h-m-p  0.0000 0.0000 12174.1351 +CYYY 20653.690290  3 0.0000  1178 | 0/34
+ 30 h-m-p  0.0000 0.0000 10232.3016 +YYYYCC 20609.065219  5 0.0000  1222 | 0/34
+ 31 h-m-p  0.0000 0.0000 5740.6521 +YYYCCC 20579.528828  5 0.0000  1267 | 0/34
+ 32 h-m-p  0.0000 0.0000 9412.6410 +YYYYCYCCC 20553.814846  8 0.0000  1316 | 1/34
+ 33 h-m-p  0.0000 0.0000 566.1397 CCCC  20551.850731  3 0.0000  1359 | 1/34
+ 34 h-m-p  0.0000 0.0001 1076.4392 +YCC  20546.112473  2 0.0000  1400 | 1/34
+ 35 h-m-p  0.0000 0.0000 989.7360 CYCCC 20543.296377  4 0.0000  1444 | 1/34
+ 36 h-m-p  0.0000 0.0002 1110.8016 CYC   20540.719066  2 0.0000  1484 | 1/34
+ 37 h-m-p  0.0000 0.0002 270.2671 CCC   20539.605322  2 0.0000  1525 | 1/34
+ 38 h-m-p  0.0001 0.0006 183.4339 CYC   20539.417914  2 0.0000  1565 | 1/34
+ 39 h-m-p  0.0000 0.0009 178.3420 +YC   20539.013376  1 0.0001  1604 | 1/34
+ 40 h-m-p  0.0001 0.0013 106.1152 YC    20538.807388  1 0.0001  1642 | 1/34
+ 41 h-m-p  0.0001 0.0022  83.7777 CC    20538.632158  1 0.0001  1681 | 1/34
+ 42 h-m-p  0.0001 0.0016 145.0256 +YC   20538.198890  1 0.0002  1720 | 1/34
+ 43 h-m-p  0.0002 0.0022 159.0799 CC    20537.705898  1 0.0002  1759 | 1/34
+ 44 h-m-p  0.0001 0.0014 471.5899 CC    20537.123393  1 0.0001  1798 | 1/34
+ 45 h-m-p  0.0001 0.0007 378.4234 CCC   20536.343400  2 0.0001  1839 | 1/34
+ 46 h-m-p  0.0001 0.0041 862.4224 +CCC  20533.724520  2 0.0002  1881 | 1/34
+ 47 h-m-p  0.0001 0.0005 2088.3513 CCC   20530.708471  2 0.0001  1922 | 1/34
+ 48 h-m-p  0.0002 0.0008 852.5379 YCC   20529.588806  2 0.0001  1962 | 1/34
+ 49 h-m-p  0.0000 0.0002 870.7577 YCCC  20528.620241  3 0.0001  2004 | 1/34
+ 50 h-m-p  0.0017 0.0084  24.7917 -CC   20528.592523  1 0.0001  2044 | 1/34
+ 51 h-m-p  0.0003 0.0215  10.5933 CC    20528.587334  1 0.0001  2083 | 1/34
+ 52 h-m-p  0.0002 0.0239   7.0654 C     20528.583415  0 0.0002  2120 | 1/34
+ 53 h-m-p  0.0002 0.0238   5.2211 C     20528.579170  0 0.0003  2157 | 1/34
+ 54 h-m-p  0.0005 0.0785   3.0431 C     20528.572019  0 0.0005  2194 | 1/34
+ 55 h-m-p  0.0014 0.2897   1.1823 +CC   20528.397865  1 0.0051  2234 | 1/34
+ 56 h-m-p  0.0003 0.0143  19.1160 +YCCC 20524.966187  3 0.0022  2277 | 1/34
+ 57 h-m-p  0.0006 0.0044  73.5262 YC    20524.241560  1 0.0002  2315 | 1/34
+ 58 h-m-p  0.0014 0.0466  12.1010 YC    20524.228265  1 0.0002  2353 | 1/34
+ 59 h-m-p  0.0040 0.3742   0.5610 Y     20524.227944  0 0.0006  2390 | 1/34
+ 60 h-m-p  0.0057 1.5007   0.0566 +++CCC 20523.660969  2 0.4009  2467 | 1/34
+ 61 h-m-p  0.9510 4.7550   0.0058 YC    20523.506465  1 0.6084  2538 | 1/34
+ 62 h-m-p  0.4766 8.0000   0.0074 +CC   20523.424250  1 1.6882  2611 | 1/34
+ 63 h-m-p  1.6000 8.0000   0.0010 C     20523.413861  0 1.5082  2681 | 1/34
+ 64 h-m-p  1.5707 8.0000   0.0009 C     20523.413456  0 1.5602  2751 | 1/34
+ 65 h-m-p  1.6000 8.0000   0.0001 C     20523.413400  0 1.7185  2821 | 1/34
+ 66 h-m-p  1.6000 8.0000   0.0001 Y     20523.413398  0 1.0798  2891 | 1/34
+ 67 h-m-p  1.6000 8.0000   0.0000 Y     20523.413397  0 1.0721  2961 | 1/34
+ 68 h-m-p  1.5194 8.0000   0.0000 Y     20523.413397  0 3.7697  3031 | 1/34
+ 69 h-m-p  1.6000 8.0000   0.0000 --C   20523.413397  0 0.0250  3103 | 0/34
+ 70 h-m-p  0.0160 8.0000   0.0026 ---C  20523.413397  0 0.0001  3176 | 1/34
+ 71 h-m-p  0.0160 8.0000   0.0001 Y     20523.413397  0 0.0160  3247 | 1/34
+ 72 h-m-p  0.0160 8.0000   0.0001 -------------..  | 1/34
+ 73 h-m-p  0.0000 0.0114   0.3779 -------- | 1/34
+ 74 h-m-p  0.0000 0.0114   0.3779 --------
+Out..
+lnL  = -20523.413397
+3481 lfun, 24367 eigenQcodon, 626580 P(t)
+Calculating SE's
+
+Time used: 18:58

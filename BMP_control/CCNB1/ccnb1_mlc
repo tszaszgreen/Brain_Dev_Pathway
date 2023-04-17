@@ -1,0 +1,915 @@
+     25    273
+
+Gallus_gallus                   CCT GAT ATA GCA GAC TTT GTT TAT ATT ACC GAC AAT GCC TAC AAC AGT GCT ??? GTT AGA GAA ATG GAG ATC ACG ATT CTG AAA GAA TTG AAC TTT GAT TTG GGA CGG CCT CTT CCA CTT CAC TTC TTA AGA AGA GCA TCA AAA GCT GGG GAG GAT GCT GAG CAA CAT ACG CTA GCA AAA TAC CTA ATG GAA CTG ACA CTG ATA GAC TAC GAC ATG GTG CAC TAT CAC CCT TCA GAG ATC GCA GCC GCT GCG CTG TGC TTG TCG CAG AAG GTT 
+Coturnix_japonica               CCT GAT GTA GCA GAC TTT GTT TAT ATT ACT GAT AAT ACC TAC AGC AGT GCT ??? GTT AGA GAA ATG GAG ATC ACG ATT CTG AAA GAA CTG AAC TTT GAT TTG GGA CGG CCT CTT CCA CTT CAC TTC TTA AGA AGA GCA TCA AAA GCT GGG GAG GAT GCT GAG CAA CAT ACA CTA GCA AAA TAC CTC ATG GAA CTG ACG CTG ATA GAC TAC GAC ATG GTG CAC TAC CAC CCT TCA GAG ATC GCA GCT GCT GCC TTG TGC TTG TCG CAG AAG GTT 
+Phasianus_colchicus             CCT GAT ATA GCA GAC TTC GTT TAT ATT ACT GAC AAT GCC TAC AAC AGT GCT ??? GTT AGA GAA ATG GAG ATC ACA ATT CTG AAA GAA TTG AAC TTT GAT CTG GGA CGG CCT CTT CCA CTT CAC TTC TTA AGA AGA GCA TCA AAA GCT GGG GAG GAC GCT GAG CAA CAC ACG CTA GCA AAA TAC CTC ATG GAA CTG ACA CTG ATA GAC TAC GAC ATG GTG CAC TGT CAC CCC TCA GAG ATC GCA GCT GCT GCG CTG TGC TTG TCG CAG AAG GTT 
+Meleagris_gallopavo             CCT GAT ATA GCA GAC TTC GTT TAT ATT ACT GAC AAT GCC TAC AGC AGT GCT ??? GTT AGA GAA ATG GAG ATC ACG ATT CTG AAA GAA TTG AAC TTT GAT TTG GGA CGG CCT CTT CCA CTT CAC TTC TTA AGA AGA GCA TCA AAA GCT GGG GAG GAC GCT GAG CAA CAC ACG CTA GCA AAA TAC CTA ATG GAA CTG ACA CTG ATA GAC TAC GAC ATG GTG CAC TGT CAC CCC TCA GAG ATC GCA GCT GCT GCG CTG TGC TTG TCG CAG AAG CTT 
+Anas_platyrhynchos              CCT GAT GTA GCA GAC TTT GTT TAC ATT ACT GAC AAT GCT TAC ACT GGT GCT ??? GTT AGA GAA ATG GAG ATG ACA ATA CTT AAA GAG TTG AAC TTC GAT TTG GGG CGG CCT CTT CCA CTT CAT TTC TTA AGA AGA GCA TCA AAA GCT GGA GAG GAT GCT GAG CAA CAT ACA CTA GCA AAA TAC CTG ATG GAA TTG ACA TTG GTA GAC TAT GAC ATG GTA CAC CAT CAT CCT TCA GAG ATT GCA GCA GCT GCA CTA TGC TTG TCT CAA AAG ATT 
+Ficedula_albicollis             CCT GAT GTA GCA GAC TTT GTT TAC ATT ACT GAC AAT GCC TAC ACC AGT AAT ??? ATT AGA GAA ATG GAA ATG ATT ATT CTT AAA GAA TTA AAC TTT GAC CTG GGG CGA CCT CTT CCA ATT CAC TTC TTA AGA AGA GCA TCA AAA GCT GGA GAG GAT GCT AAG CAA CAC AGT CTA GCA AAA TAC CTG ATG GAG CTG ACA CTG ATA GAC TAT GAC ATG GTT CAC CAC CGG CCT TCA GAG ATC GCA GCC GCC GCA CTG TGC CTG TCT CAG AAG GTT 
+Camarhynchus_parvulus           CCT GAT GTA GCA GAC TTT GTT TAC ATT ACT GAC AAT GCC TAC ACC AGT AAT ??? ATT AGA GAA ATG GAA ATG ATT ATT CTT AAA GAA TTA AAC TTC GAC CTG GGG CGA CCT CTT CCA ATT CAT TTC TTA AGG AGA GCA TCA AAA GCT GGG GAG GAT GCC AAG CAA CAC ACT CTG GCA AAA TAT CTG ATG GAG CTG ACC CTG ATA GAC TAT GAC ATG GTG CAC CAC CGG CCC TCA GAG ATT GCA GCT GCT GCT CTG TGC CTG TCT CAG AGG ATT 
+Catharus_ustulatus              CCT GAT ATA GCA GAC TTT GTT TAC ATT ACC GAC AAT GCC TAC ACC AGT AAT ??? ATC AGA GAA ATG GAA ATG ATC ATT CTT AAA GAA TTA AAC TTT GAC CTG GGG CGA CCT CTT CCA ATT CAC TTC TTA AGA AGA GCA TCA AAA GCT GGA GAG GAT GCT AAG CAA CAC ACT CTA GCA AAA TAC CTG ATG GAG CTG ACA CTA ATA GAC TAT GAC ATG GTT CAC CAC CGG CCT TCA GAG ATC GCA GCT GCT GCA CTG TGC CTG TCT CAG AAG GTT 
+Lonchura_striata_domestica      CCT GAT GTA GCA GAC TTT GTT TAC ATT ACC GAC AAT GCC TAC ACT AGT AAT ??? ATT AGA GAA ATG GAA ATG ATT ATT CTT AAA GAA TTA AAC TTT GAC CTG GGG CGA CCT CTT CCA ATT CAC TTC TTA AGA AGA GCA TCA AAA GCT GGG GAG GAT GCC AAG CAA CAC ACT CTA GCA AAA TAC CTG ATG GAG CTG ACA CTG ATA GAC TAT GAC ATG GTT CAC CAC CGG CCT TCA GAG ATT GCA GCT GCT GCA CTG TGC CTG TCT CAG AAG ATC 
+Serinus_canaria                 CCT GAT GTG GCA GAC TTT GTT TAC ATT ACT GAC AAT GCC TAC ACC AGT AAT ??? ATT AGA GAA ATG GAA ATT ATT ATT CTT AAA GAA TTA AAC TTT GAC CTG GGG CGA CCT CTT CCA ATT CAC TTC TTA AGA AGA GCA TCA AAA GCT GGA GAG GAT GCC AAG CAA CAC ACA CTA GCA AAA TAC CTG ATG GAG CTG ACA CTG ATA GAC TAT GAC ATG GTG CAC CAC CGG CCC TCA GAG ATT GCA GCT GCT GCC CTG TGC CTG TCT CAG AGG ATT 
+Corvus_moneduloides             CCT GAT GTA GCA GAC TTT GTT TAC ATT ACC GAC AAT GCC TAC ACC AGT AAT ??? ATT AGA GAA ATG GAG ATG ATT ATT CTT AAA GAA TTA AAT TTT GAT CTG GGA CGA CCT CTT CCA ATT CAC TTC TTA AGA AGA GCA TCA AAA GCT GGG GAG GAT GCT AAG CAA CAC ACT CTA GCA AAA TAC CTG ATG GAG CTG ACA CTG ATA GAC TAT GAC ATG GTT CAC CAT CGT CCT TCA GAG ATT GCA GCT GCT GCA TTG TGC CTG TCT CAG AAG ATT 
+Parus_major                     CCT GAT GTA GCA GAC TTT GTT TAC ATT ACT GAC AAT GCC TAC ACC AGT AGT ??? ATT AGA GAA ATG GAG ATG ATT ATT CTT AAA GAA TTA AAC TTC GAC CTG GGG CGA CCT CTT CCA ATT CAC TTC TTA AGA AGA GCA TCA AAA GCT GGG GAG GAT GCT AAG CAA CAC ACT CTA GCA AAA TAC CTG ATG GAG CTG ACA CTG ATA GAC TAT GAC ATG GTT CAC CAT CGG CCT TCA GAG ATC GCA GCT GCT GCA TTG TGC CTG TCT CAG AAG ATT 
+Cyanistes_caeruleus             CCT GAT GTA GCA GAC TTT GTT TAC ATT ACC GAC AAT GCC TAC ACC AGT AGT ??? ATT AGA GAA ATG GAG ATG ATT ATT CTT AAA GAA TTA AAC TTC GAC CTG GGG CGA CCT CTT CCA ATT CAC TTC TTA AGA AGA GCA TCA AAA GCT GGG GAG GAT GCT AAG CAA CAC ACT CTA GCA AAA TAC CTG ATG GAG CTA ACA CTG ATA GAC TAT GAC ATG GTT CAC CAC CGG CCT TCA GAG ATC GCA GCT GCT GCA TTG TGC CTG TCT CAG AAG ATT 
+Numida_meleagris                CCA CCG ATT GAT GAT TTT TCC AGT GCA ACT GCT AAT GCT TTC ACG GCA ACC ??? ATT TGC CGG ATG GAA ACA AAG ATT CTA CAA GCC CTG GAC TTT AGT TTC AGT CGT CCT CTC CCT CTA CAC TTT CTA AGA AGA GCT TCA AAA TTT GTA GAG GAT GAG GAA CAG CAG TTC CTA GCG AAG TAC CTG TTG GAG TTA TCC ATC CTG GAC TAC GAT ATG GTT CAC TTC CCT CCA TCC ATG ACT GCT GCT GCT GCT TTC TGC TTG GCT ATG AAG CTT 
+Athene_cunicularia              ATG AGT ATT GGA GAC TTT TTG TGT ATA ACT GGT GGC ACT TAC ACA AAG TTC ??? GTC CAC CAT ATG GAG AGG AAG ATC CTG AAA GCC CTG GAC TTC TGC CTG GGT TGT CCC CTC CCT CCA CAC TTC CTA AGG AGG ATT GCA AAA ATA GCA AAG AAA TTC AGA GAG TAT TCT CTG GCC AAG TAC CTG ATG GAG TTG TGC ATT ATG GAC TAT GAT ATG GTT TAC TTC CCT TCA TCC AAA ATT GCA GCG GCT GCT GCC TGT TTG ACT CTG AAA CTC 
+Melopsittacus_undulatus         TTG CGT GCT GCA GAC CTT GTC TAT ATA ACT GAT AAC ACT TAT ACA ACC AGC ??? ATC ATC CAG ATG GAG TTT CAG ATC CTG CAA GCC TTG AAC TTT CAT CTG AGT CAT CCC CTA ACT TCA CAA TTC CTA GAT ATG GCT TTA GAG ATT GCA AAG ACC ACA AGA CAG TGT GTT CTG GCC AAA TAC CTG ATG GAG TTG TCC ATT GTG GAC TAT GAT ATG GTT CAT NTT CCT TCC TCC AAG ACT GCA GCG GCT GCT TTA TGT TTG TCT CTG GAA CTT 
+Strigops_habroptila             GTG TGT GTT GCA GAC TTT GTC TAT ATA ACT GAT GGC GCT TAT ACA AAC AGC ??? ATC TGC CAG ATG GAG ATT CAG ATC CTG CAA GCC CTG GAA TTT CAT CTG AGT CGT CCC CTA GCT TCG CAC TTC CTA AGG ATG GTA TCA GAG GCT GCA CAG GAC AAG AAA CAG CAT GTT CTG GCC AGA TAC CTA ATG GTG TTG TCC ATC GTG GAC TAT GAT ATG GTT CAT TTC CCT CCA TCC AAG ACT GCA GCA GCT GCT TGC TGT TTG TCT CTG AAA CTC 
+Columba_livia                   CCA GCT GTT GAA GAC TTT GCC TGT GTA ACT AAT CAC AGT TAC ACA AAG CTC ??? ATC TGC CAG ATG GAG ATG AAG ATC CTG CAA GCC CTG GGC TTC TGT CTG GGT CAC CCT CCC CCT CCA CAC TTC CTG AGG AGG GCT TCA ATG ATT GCA GAG GAC TTA GAA CAG CAC ATT CTA GCC AAA TAC TTG ATG GAC TTG TCC ATT GTG GAC TAT GAT ATG GTT CAC TTC CCT CCA TCC AAG ATC ACA GCG GCT GCT TCT TGT TTA TCT CTG AAA CTC 
+Anser_cygnoides_domesticus      CCC AGT ATT GGA GAT TTT GCC TAT GTA ACT CAA GAC AAG TAT ACA ACA TCC ??? ATT TGC AAA ATG GAG ATA AAG ATT CTG CAA GCC CTG GAC TTT CGT CTG GGT CGT CCT CTC CCT ATA CAC TTC CTA AAC AGG ACT TCA AGG ATT GCA GAG GAC TTG GAA CAA CAC ATT CTG TCC AAG TAC CTG TTG GAG CTA TCC ATT TTG GAC TAT GAC ATC GCT CAC ATC CAT CCA TCC AGG AAG GCA GCT GCT GCT ACC TGC TTG GCT CTG AAA CTT 
+Aquila_chrysaetos_chrysaetos    CCA CAT ATT GGA GAC TTT GCC TAT ATA ACT GAT CAC AGT TAT ACA AAG CTA ??? ATC TAC CAG ATG GAG ATG AAG ATC CTG CAA GCC CTG GAC TTT GGT GTG AGC TTC CCT CTT CCT CCG CAC TTC CTA AGA AGG ATT TCA AAA GTT TCA GAG GAC TTC CAA CAG CAC TGG CTG GCT AAG TAC CTG ATG GAG TTG TCC ATT TTG GAC TAT GAT ATG GTT CAC CTC CTT CCA TCC AAG ACT GCA GCC GCT GCT TGC TGT TTG GCT CTG CAA CTC 
+Calidris_pugnax                 CCA CAT ATC GGA GAC TTT GCC TAT GTA ACT GAT CAC ACT TAC ACT ACA TTC ??? ATC TGC CAG ATG GAG GTG AAG ATC CTG CGA GCC TTG GAC TTT TCT CTA AGT CGC CCT GTC CCT CCG CAT TTC CTA AGG AGG GCT TCA AAG ATT GCA GAG GAC TTG GAA CAG CAC ACT CTG GCC AAG TAC CTG ATG GAG TTG TCC ATT GTG GAC TAT GAT ATG GTT CAC TTC CCT CCA TCC AAG ACT GCA GCG GCT GCT TCC TGT TTG GCT CTG AAA CTC 
+Struthio_camelus_australis      CCT GAA ATT GGG GAT TTT GCC TTT GTA ACA GAT CAC ACT TAC ACA AAG TCT ??? ATC CGC CAG ATG GAG ATG AAG ATC CTG CGA GCC CTG GAC TTT GGT CTG GGT CGC CCT CTG CCT CTA CAC TTC TTA AGG AGG GCT TCA AAG ATT GCA GAG GAC TTG GAA CAA CAC ACT CTG GCC AAG TAC CTG ATG GAG TTG TCC ATG GTG GAC TAT GAA ATG GTT CAC TTC CCT CCT TCC AAA ACT GCG GCT GCT GCT TCC TGT TTG GCT CTG AAA GTT 
+Nothoprocta_perdicaria          CCC GAA ATT GGG GAC TTT GCC TTT GTG ACG GAC CAC ACT TAC ACC AAG TCC ??? ATC CGC CAG ATG GAG ATG AAG ATC CTG CAA GCC CTG GAC TTC GGT CTG GGT CGC CCC CTG CCC CTC CAC TTC CTG AGG AGG GCT TCA AAG ATC GCA GAG GAC TTG GAA CAG CAC ACA CTG GCC AAG TAC CTG ATG GAG TTG TCC ATG GTG GAC TAT GAA ATG GTT CAT TTC CCT CCT TCT AAA ACT GCG GCT GCT GCT TCC TGT TTG GCT CTG AAA GTT 
+Dromaius_novaehollandiae        CCT GAA ATT GGG GAT TTT GCC TTT GTA ACG GAT CAC ACT TAT ACA AAG TCC ??? ATT CGC CAG ATG GAG ATG AAG ATC CTC CAA GCC CTG GAC TTT GGT CTG GGT CGC CCT CTG CCT CTA CAC TTC CTA AGG AGG GCT TCA AAG ATT GCA GAG GAC TTG GAA CAG CAC ACT CTG GCC AAG TAC CTG ATG GAG TTG TCC ATG GTG GAC TAT GAA ATG GTC CAC TTT CCT CCT TCT AAA ACT GCG GCT GCT GCT TCC TGT TTG GCT CTA AAA GTT 
+Apteryx_rowi                    CCT GAA ATT GGG GAT TTT GCC TTT GTA ACA GAT CAC ACT TAC ACA AAG TCC ??? ATC CGC CAG ATG GAG ATG AAG ATC CTC CGA GCC CTG GAC TTT GGT CTG GGT CGC CCT CTG CCC CTA CAC TTT CTA AGG AGG GCT TCA AAG ATT GCA GAG GAC CTG GAA CAG CAC ACT CTG GCC AAG TAC CTG ATG GAG TTG TCC ATG GTG GAC TAT GAA ATG GTT CAC TTC CCT CCT TCT AAA ACT GCA GCT GCT GCT TCC TGT TTG GCT CTA AAA GTT 
+
+
+
+Printing out site pattern counts
+
+
+        25        273  P
+
+Gallus_gallus                    ??? AAA AAA AAA AAC AAC AAG AAT ACA ACC ACG ACG AGA AGA AGA AGT ATA ATA ATC ATC ATG ATG ATG ATT ATT CAA CAC CAC CAC CAG CAT CCA CCT CCT CCT CGG CTA CTA CTG CTG CTG CTG CTT CTT GAA GAA GAA GAC GAC GAC GAC GAG GAG GAG GAG GAT GAT GAT GCA GCA GCA GCA GCC GCC GCG GCT GCT GCT GCT GGA GGG GTG GTT GTT GTT TAC TAC TAC TAT TAT TCA TCA TCG TGC TTA TTC TTG TTG TTG TTT TTT
+Coturnix_japonica                ??? AAA AAA AAA AAC AGC AAG AAT ACG ACT ACA ACG AGA AGA AGA AGT ATA GTA ATC ATC ATG ATG ATG ATT ATT CAA CAC CAC CAC CAG CAT CCA CCT CCT CCT CGG CTA CTC CTG CTG CTG TTG CTT CTT GAA GAA GAA GAC GAC GAC GAT GAG GAG GAG GAG GAT GAT GAT GCA GCA GCA GCA ACC GCT GCC GCT GCT GCT GCT GGA GGG GTG GTT GTT GTT TAC TAC TAC TAC TAT TCA TCA TCG TGC TTA TTC CTG TTG TTG TTT TTT
+Phasianus_colchicus              ??? AAA AAA AAA AAC AAC AAG AAT ACA ACT ACG ACA AGA AGA AGA AGT ATA ATA ATC ATC ATG ATG ATG ATT ATT CAA CAC CAC CAC CAG CAC CCA CCC CCT CCT CGG CTA CTC CTG CTG CTG CTG CTT CTT GAA GAA GAA GAC GAC GAC GAC GAG GAG GAG GAG GAC GAT GAT GCA GCA GCA GCA GCC GCT GCG GCT GCT GCT GCT GGA GGG GTG GTT GTT GTT TAC TAC TAC TGT TAT TCA TCA TCG TGC TTA TTC TTG CTG TTG TTC TTT
+Meleagris_gallopavo              ??? AAA AAA AAA AAC AGC AAG AAT ACA ACT ACG ACG AGA AGA AGA AGT ATA ATA ATC ATC ATG ATG ATG ATT ATT CAA CAC CAC CAC CAG CAC CCA CCC CCT CCT CGG CTA CTA CTG CTG CTG CTG CTT CTT GAA GAA GAA GAC GAC GAC GAC GAG GAG GAG GAG GAC GAT GAT GCA GCA GCA GCA GCC GCT GCG GCT GCT GCT GCT GGA GGG GTG CTT GTT GTT TAC TAC TAC TGT TAT TCA TCA TCG TGC TTA TTC TTG TTG TTG TTC TTT
+Anas_platyrhynchos               ??? AAA AAA AAA AAC ACT AAG AAT ACA ACT ACA ACA AGA AGA AGA GGT GTA GTA ATG ATT ATG ATG ATG ATA ATT CAA CAC CAT CAT CAA CAT CCA CCT CCT CCT CGG CTA CTG CTT TTG TTG CTA CTT CTT GAA GAA GAG GAC GAC GAC GAC GAG GAG GAG GAG GAT GAT GAT GCA GCA GCA GCA GCT GCA GCA GCT GCT GCT GCT GGG GGA GTA ATT GTT GTT TAC TAC TAT CAT TAC TCA TCA TCT TGC TTA TTC TTG TTG TTG TTT TTC
+Ficedula_albicollis              ??? AAA AAA AAA AAC ACC AAG AAT ACA ACT AGT ATT AGA AGA AGA AGT ATA GTA ATG ATC ATG ATG ATG ATT ATT CAA CAC CAC CGG CAG CAC CCA CCT CCT CCT CGA CTA CTG CTT CTG CTG CTG ATT CTT GAA GAG GAA GAC GAC GAC GAC AAG GAA GAG GAG GAT GAC GAT GCA GCA GCA GCA GCC GCC GCA AAT GCC GCT GCT GGG GGA GTT GTT ATT GTT TAC TAC TAT CAC TAC TCA TCA TCT TGC TTA TTC TTA CTG CTG TTT TTT
+Camarhynchus_parvulus            ??? AAA AAA AAA AAC ACC AGG AAT ACC ACT ACT ATT AGA AGA AGG AGT ATA GTA ATG ATT ATG ATG ATG ATT ATT CAA CAC CAT CGG CAG CAC CCA CCC CCT CCT CGA CTG CTG CTT CTG CTG CTG ATT CTT GAA GAG GAA GAC GAC GAC GAC AAG GAA GAG GAG GAT GAC GAT GCA GCA GCA GCA GCC GCT GCT AAT GCT GCC GCT GGG GGG GTG ATT ATT GTT TAC TAT TAT CAC TAC TCA TCA TCT TGC TTA TTC TTA CTG CTG TTT TTC
+Catharus_ustulatus               ??? AAA AAA AAA AAC ACC AAG AAT ACA ACC ACT ATC AGA AGA AGA AGT ATA ATA ATG ATC ATG ATG ATG ATT ATT CAA CAC CAC CGG CAG CAC CCA CCT CCT CCT CGA CTA CTG CTT CTA CTG CTG ATT CTT GAA GAG GAA GAC GAC GAC GAC AAG GAA GAG GAG GAT GAC GAT GCA GCA GCA GCA GCC GCT GCA AAT GCT GCT GCT GGG GGA GTT GTT ATC GTT TAC TAC TAT CAC TAC TCA TCA TCT TGC TTA TTC TTA CTG CTG TTT TTT
+Lonchura_striata_domestica       ??? AAA AAA AAA AAC ACT AAG AAT ACA ACC ACT ATT AGA AGA AGA AGT ATA GTA ATG ATT ATG ATG ATG ATT ATT CAA CAC CAC CGG CAG CAC CCA CCT CCT CCT CGA CTA CTG CTT CTG CTG CTG ATT CTT GAA GAG GAA GAC GAC GAC GAC AAG GAA GAG GAG GAT GAC GAT GCA GCA GCA GCA GCC GCT GCA AAT GCT GCC GCT GGG GGG GTT ATC ATT GTT TAC TAC TAT CAC TAC TCA TCA TCT TGC TTA TTC TTA CTG CTG TTT TTT
+Serinus_canaria                  ??? AAA AAA AAA AAC ACC AGG AAT ACA ACT ACA ATT AGA AGA AGA AGT ATA GTG ATT ATT ATG ATG ATG ATT ATT CAA CAC CAC CGG CAG CAC CCA CCC CCT CCT CGA CTA CTG CTT CTG CTG CTG ATT CTT GAA GAG GAA GAC GAC GAC GAC AAG GAA GAG GAG GAT GAC GAT GCA GCA GCA GCA GCC GCT GCC AAT GCT GCC GCT GGG GGA GTG ATT ATT GTT TAC TAC TAT CAC TAC TCA TCA TCT TGC TTA TTC TTA CTG CTG TTT TTT
+Corvus_moneduloides              ??? AAA AAA AAA AAT ACC AAG AAT ACA ACC ACT ATT AGA AGA AGA AGT ATA GTA ATG ATT ATG ATG ATG ATT ATT CAA CAC CAC CGT CAG CAC CCA CCT CCT CCT CGA CTA CTG CTT CTG CTG TTG ATT CTT GAA GAG GAA GAC GAC GAC GAC AAG GAG GAG GAG GAT GAT GAT GCA GCA GCA GCA GCC GCT GCA AAT GCT GCT GCT GGA GGG GTT ATT ATT GTT TAC TAC TAT CAT TAC TCA TCA TCT TGC TTA TTC TTA CTG CTG TTT TTT
+Parus_major                      ??? AAA AAA AAA AAC ACC AAG AAT ACA ACT ACT ATT AGA AGA AGA AGT ATA GTA ATG ATC ATG ATG ATG ATT ATT CAA CAC CAC CGG CAG CAC CCA CCT CCT CCT CGA CTA CTG CTT CTG CTG TTG ATT CTT GAA GAG GAA GAC GAC GAC GAC AAG GAG GAG GAG GAT GAC GAT GCA GCA GCA GCA GCC GCT GCA AGT GCT GCT GCT GGG GGG GTT ATT ATT GTT TAC TAC TAT CAT TAC TCA TCA TCT TGC TTA TTC TTA CTG CTG TTT TTC
+Cyanistes_caeruleus              ??? AAA AAA AAA AAC ACC AAG AAT ACA ACC ACT ATT AGA AGA AGA AGT ATA GTA ATG ATC ATG ATG ATG ATT ATT CAA CAC CAC CGG CAG CAC CCA CCT CCT CCT CGA CTA CTG CTT CTG CTA TTG ATT CTT GAA GAG GAA GAC GAC GAC GAC AAG GAG GAG GAG GAT GAC GAT GCA GCA GCA GCA GCC GCT GCA AGT GCT GCT GCT GGG GGG GTT ATT ATT GTT TAC TAC TAT CAC TAC TCA TCA TCT TGC TTA TTC TTA CTG CTG TTT TTC
+Numida_meleagris                 ??? AAA AAG CAA GAC ACG AAG AAT TCC ACT TTC AAG AGA TGC AGA GCA CTG ATT ACA ACT ATG ATG TTG ATT GCA CAG CAC CAC CCT ATG CAG CCT CCA CCA CCT CGT CTA CTG CTA ATC TTA TTC CTA CTC CGG GAG GCC GAC GAT GAT GCT GAA GAA ATG GAG GAT AGT CCG GAT GCG GCT GCT GCT GCT GCT ACC GCT GAG TTT AGT GTA GTT CTT ATT TCC TTC TAC TAC TTC AGT TCA TCC GCT TGC CTA TTT CTG TTC TTG TTT TTT
+Athene_cunicularia               ??? AAA AAG AAA GAC ACA AAA GGC TGC ACT TCT AAG AGG CAC AGG AAG ATG ATT AGG ATT ATG ATG ATG ATC ATA GAG TAC CAC CCT CTG TAT CCT TCA ATG CCC TGT CTG CTG CTG ATT TTG GCC CCA CTC CAT GAG GCC GAC GAC GAT GGT AGA GAG AAA AAG AAA TGC AGT GGA GCC ATT GCA ACT GCG GCT TTC GCT TTC ATA GGT GCA GTT CTC GTC TTG TAC TAC TAT TTC TGT GCA TCC ACT TGT CTA TTC CTG CTG TTG TTT TTC
+Melopsittacus_undulatus          ??? GAG AAA CAA AAC ACA GAA AAC TCC ACT GTT CAG ATG ATC GAT ACC GTG GCT TTT ACT ATG ATG ATG ATC ATA CAG CAT CAA CCT CTG TGT ACT TCC TTG CCC CAT CTG CTG CTG ATT TTG TTA TCA CTA CAG GAG GCC GAC GAC GAT GAT AGA GAG AAG AAG ACC CAT CGT GCA GCC GCT GCA ACT GCG GCT AGC GCT ACA ATT AGT GCA GTT CTT ATC GTC TAT TAC TAT NTT TAT TTA TCC TCT TGT CTA TTC TTG CTG TTG CTT TTT
+Strigops_habroptila              ??? GAG AGA CAA GAA ACA AAA GGC TCC ACT GTT CAG ATG TGC AGG AAC GTG GTT ATT ACT ATG ATG ATG ATC ATA CAG CAT CAC CCT CTG CAT GCT CCA GTG CCC CGT CTG CTA CTG ATC TTG TGC TCG CTA CAG GTG GCC GAC GAC GAT GAT AAA GAG AAG CAG GAC CAT TGT GCA GCC GTA GCA GCT GCA GCT AGC GCT AAG GCT AGT GCA GTT CTC ATC GTC TAT TAC TAT TTC TAT TCA TCC TCT TGT CTA TTC CTG CTG TTG TTT TTT
+Columba_livia                    ??? ATG AAA CAA GGC ACA AAA CAC TCC ACT ATT AAG AGG TGC AGG AAG GTG GTT ATG ATC ATG ATG ATG ATC GTA CAG CAC CAC CCT CTG CAC CCT CCA CCA CCT CAC CTA TTG CTG ATT TTG TCT CCA CCC CAG GAC GCC GAC GAC GAT AAT GAA GAG AAG GAG GAC TGT GCT GAA GCC GCT ACA AGT GCG GCT CTC GCT TTA ATT GGT GCA GTT CTC ATC GCC TAC TAC TAT TTC TGT TCA TCC TCT TGT CTG TTC CTG CTG TTA TTT TTC
+Anser_cygnoides_domesticus       ??? AGG AAG CAA GAC ACA AAA GAC TCC ACT ATT AAG AGG TGC AAC ACA TTG ATT ATA AAG ATC ATG TTG ATT GTA CAA CAC CAC CAT CTG CAC CCT CCA CCC CCT CGT CTG CTG CTG ATT CTA ACC ATA CTC AAA GAG GCC GAC GAT GAC CAA GAA GAG AGG GAG GAC CGT AGT GGA TCC ACT GCA AAG GCT GCT TCC GCT TTG ATT GGT GCA GCT CTT ATT GCC TAT TAC TAT ATC TAT TCA TCC GCT TGC CTA TTC CTG CTG TTG TTT TTT
+Aquila_chrysaetos_chrysaetos     ??? AAA AAG CAA GAC ACA CAA CAC TCC ACT TGG AAG AGG TAC AGA AAG TTG ATT ATG ACT ATG ATG ATG ATC ATA CAG CAC CAC CTT CTG CAC CCT CCA CCA CCT TTC CTG CTG CTG ATT TTG TGC CCG CTT CAG GAG GCC GAC GAC GAT GAT CAA GAG AAG GAG GAC GGT CAT GGA GCT ATT GCA AGT GCC GCT CTA GCT TTC GTT AGC TCA GTT CTC ATC GCC TAT TAC TAT CTC TAT TCA TCC GCT TGT CTA TTC CTG GTG TTG TTT TTT
+Calidris_pugnax                  ??? AAG AAG CGA GAC ACT AAA CAC TCC ACT ACT AAG AGG TGC AGG ACA GTG ATC GTG ACT ATG ATG ATG ATC GTA CAG CAC CAT CCT CTG CAC CCT CCA CCA CCT CGC CTG CTG CTG ATT TTG TCC CCG GTC CAG GAG GCC GAC GAC GAT GAT GAA GAG AAG GAG GAC TCT CAT GGA GCC GCT GCA ACT GCG GCT TTC GCT TTG ATT AGT GCA GTT CTC ATC GCC TAC TAC TAT TTC TAT TCA TCC GCT TGT CTA TTC TTG CTA TTG TTT TTT
+Struthio_camelus_australis       ??? AAG AAG CGA GAC ACA AAA CAC TCC ACA ACT AAG AGG CGC AGG AAG GTG ATT ATG ACT ATG ATG ATG ATC GTA CAA CAC CAC CCT CTG CAC CCT CCT CCT CCT CGC CTG CTG CTG ATG TTG TCC CTA CTG CAG GAG GCC GAC GAT GAA GAT GAA GAG AAA GAG GAC GGT GAA GGG GCC GCT GCG ACT GCT GCT TCT GCT TTG ATT GGT GCA GTT GTT ATC GCC TAC TAC TAT TTC TTT TCA TCC GCT TGT TTA TTC CTG CTG TTG TTT TTT
+Nothoprocta_perdicaria           ??? AAG AAG CAA GAC ACC AAA CAC TCC ACG ACA AAG AGG CGC AGG AAG GTG ATT ATG ACT ATG ATG ATG ATC GTG CAG CAT CAC CCT CTG CAC CCC CCT CCC CCC CGC CTG CTG CTG ATG TTG TCC CTC CTG CAG GAG GCC GAC GAC GAA GAC GAA GAG AAA GAG GAC GGT GAA GGG GCC GCT GCG ACT GCT GCT TCC GCT TTG ATC GGT GCA GTT GTT ATC GCC TAC TAC TAT TTC TTT TCA TCT GCT TGT CTG TTC CTG CTG TTG TTT TTC
+Dromaius_novaehollandiae         ??? AAG AAG CAA GAC ACA AAA CAC TCC ACG ACT AAG AGG CGC AGG AAG GTG ATT ATG ACT ATG ATG ATG ATC GTA CAG CAC CAC CCT CTA CAC CCT CCT CCT CCT CGC CTG CTG CTC ATG TTG TCC CTA CTG CAG GAG GCC GAC GAT GAA GAT GAA GAG AAA GAG GAC GGT GAA GGG GCC GCT GCG ACT GCT GCT TCC GCT TTG ATT GGT GCA GTC GTT ATT GCC TAT TAC TAT TTT TTT TCA TCT GCT TGT CTA TTC CTG CTG TTG TTT TTT
+Apteryx_rowi                     ??? AAG AAG CGA GAC ACA AAA CAC TCC ACA ACT AAG AGG CGC AGG AAG GTG ATT ATG ACT ATG ATG ATG ATC GTA CAG CAC CAC CCT CTA CAC CCC CCT CCT CCT CGC CTG CTG CTC ATG TTG TCC CTA CTG CAG GAG GCC GAC GAT GAA GAT GAA GAG AAA GAG GAC GGT GAA GGG GCC GCT GCA ACT GCT GCT TCC GCT CTG ATT GGT GCA GTT GTT ATC GCC TAC TAC TAT TTC TTT TCA TCT GCT TGT CTA TTT CTG CTG TTG TTT TTT
+
+
+
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1
+
+CODONML (in paml version 4.9h, March 2018)  ccnb1.fasta
+Model: One dN/dS ratio, 
+Codon frequency model: F1x4
+Site-class models: 
+ns =  25  ls =  91
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   2   2   1   1   1   2 | Ser TCT   0   0   0   0   1   1 | Tyr TAT   2   1   1   1   1   1 | Cys TGT   0   0   1   1   0   0
+    TTC   1   1   2   2   2   1 |     TCC   0   0   0   0   0   0 |     TAC   3   4   3   3   3   3 |     TGC   1   1   1   1   1   1
+Leu TTA   1   1   1   1   1   2 |     TCA   2   2   2   2   2   2 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   3   3   2   3   5   0 |     TCG   1   1   1   1   0   0 |     TAG   0   0   0   0   0   0 | Trp TGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   2   2   2   3   3   2 | Pro CCT   3   3   2   2   3   3 | His CAT   1   1   0   0   4   0 | Arg CGT   0   0   0   0   0   0
+    CTC   0   1   1   0   0   0 |     CCC   0   0   1   1   0   0 |     CAC   3   3   4   4   1   4 |     CGC   0   0   0   0   0   0
+    CTA   2   1   1   2   2   1 |     CCA   1   1   1   1   1   1 | Gln CAA   1   1   1   1   2   1 |     CGA   0   0   0   0   0   1
+    CTG   4   4   5   4   1   6 |     CCG   0   0   0   0   0   0 |     CAG   1   1   1   1   0   1 |     CGG   1   1   1   1   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   2   2   2   2   3   5 | Thr ACT   0   1   1   1   2   1 | Asn AAT   1   1   1   1   1   2 | Ser AGT   1   1   1   1   0   2
+    ATC   2   2   2   2   0   1 |     ACC   1   1   0   0   0   1 |     AAC   2   1   2   1   1   1 |     AGC   0   1   0   1   0   0
+    ATA   2   1   2   2   1   1 |     ACA   1   1   2   1   3   1 | Lys AAA   3   3   3   3   3   3 | Arg AGA   3   3   3   3   3   3
+Met ATG   3   3   3   3   4   4 |     ACG   2   2   1   2   0   0 |     AAG   1   1   1   1   1   2 |     AGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   3   3   3   2   2   3 | Ala GCT   4   5   5   5   5   2 | Asp GAT   3   4   2   2   3   2 | Gly GGT   0   0   0   0   1   0
+    GTC   0   0   0   0   0   0 |     GCC   2   1   1   1   0   3 |     GAC   4   3   5   5   4   5 |     GGC   0   0   0   0   0   0
+    GTA   0   1   0   0   3   1 |     GCA   4   4   4   4   6   5 | Glu GAA   3   3   3   3   2   3 |     GGA   1   1   1   1   1   1
+    GTG   1   1   1   1   0   0 |     GCG   1   0   1   1   0   0 |     GAG   4   4   4   4   5   3 |     GGG   1   1   1   1   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   1   2   2   2   2   1 | Ser TCT   1   1   1   1   1   1 | Tyr TAT   2   1   1   1   1   1 | Cys TGT   0   0   0   0   0   0
+    TTC   2   1   1   1   1   2 |     TCC   0   0   0   0   0   0 |     TAC   2   3   3   3   3   3 |     TGC   1   1   1   1   1   1
+Leu TTA   2   2   2   2   2   2 |     TCA   2   2   2   2   2   2 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   0   0   0   0   1   1 |     TCG   0   0   0   0   0   0 |     TAG   0   0   0   0   0   0 | Trp TGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   2   2   2   2   2   2 | Pro CCT   2   3   3   2   3   3 | His CAT   1   0   0   0   1   1 | Arg CGT   0   0   0   0   1   0
+    CTC   0   0   0   0   0   0 |     CCC   1   0   0   1   0   0 |     CAC   3   4   4   4   3   3 |     CGC   0   0   0   0   0   0
+    CTA   0   2   1   1   1   1 |     CCA   1   1   1   1   1   1 | Gln CAA   1   1   1   1   1   1 |     CGA   1   1   1   1   1   1
+    CTG   7   5   6   6   5   5 |     CCG   0   0   0   0   0   0 |     CAG   1   1   1   1   1   1 |     CGG   1   1   1   1   0   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   7   3   6   8   7   6 | Thr ACT   2   1   2   1   1   2 | Asn AAT   2   2   2   2   3   1 | Ser AGT   1   1   1   1   1   2
+    ATC   0   3   1   0   0   1 |     ACC   2   2   1   1   2   1 |     AAC   1   1   1   1   0   1 |     AGC   0   0   0   0   0   0
+    ATA   1   2   1   1   1   1 |     ACA   0   1   1   2   1   1 | Lys AAA   3   3   3   3   3   3 | Arg AGA   2   3   3   3   3   3
+Met ATG   4   4   4   3   4   4 |     ACG   0   0   0   0   0   0 |     AAG   1   2   2   1   2   2 |     AGG   2   0   0   1   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   1   3   2   1   2   2 | Ala GCT   4   4   3   3   4   4 | Asp GAT   2   2   2   2   3   2 | Gly GGT   0   0   0   0   0   0
+    GTC   0   0   0   0   0   0 |     GCC   2   1   2   3   1   1 |     GAC   5   5   5   5   4   5 |     GGC   0   0   0   0   0   0
+    GTA   1   0   1   0   1   1 |     GCA   4   5   5   4   5   5 | Glu GAA   3   3   3   3   2   2 |     GGA   0   1   0   1   1   0
+    GTG   1   0   0   2   0   0 |     GCG   0   0   0   0   0   0 |     GAG   3   3   3   3   4   4 |     GGG   2   1   2   1   1   2
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   1   4   1   2   2   1 | Ser TCT   1   0   1   1   1   2 | Tyr TAT   1   0   2   3   3   1 | Cys TGT   0   0   3   2   2   3
+    TTC   2   5   5   1   2   3 |     TCC   0   3   1   3   2   2 |     TAC   3   2   3   1   1   2 |     TGC   1   2   2   0   2   1
+Leu TTA   2   1   0   2   0   2 |     TCA   2   1   1   1   1   1 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   1   2   3   4   2   2 |     TCG   0   0   0   0   1   0 |     TAG   0   0   0   0   0   0 | Trp TGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   2   1   0   2   0   0 | Pro CCT   3   3   2   1   1   3 | His CAT   0   0   1   3   3   0 | Arg CGT   0   1   0   1   1   0
+    CTC   0   1   2   0   1   2 |     CCC   0   0   1   1   1   1 |     CAC   4   2   2   0   1   5 |     CGC   0   0   0   0   0   0
+    CTA   2   4   1   2   3   1 |     CCA   1   2   1   0   1   3 | Gln CAA   1   1   0   2   1   1 |     CGA   1   0   0   0   0   0
+    CTG   4   3   6   5   5   5 |     CCG   0   1   0   0   0   0 |     CAG   1   2   0   3   4   2 |     CGG   1   1   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   6   3   4   2   1   3 | Thr ACT   1   2   3   4   2   1 | Asn AAT   1   1   0   0   0   1 | Ser AGT   2   3   1   1   1   1
+    ATC   1   1   1   3   3   3 |     ACC   2   1   0   2   0   0 |     AAC   1   0   0   2   1   0 |     AGC   0   0   0   1   1   0
+    ATA   1   0   2   1   1   0 |     ACA   1   1   1   2   1   2 | Lys AAA   3   1   5   1   2   2 | Arg AGA   3   2   1   1   1   0
+Met ATG   4   4   5   4   4   5 |     ACG   0   1   0   0   0   0 |     AAG   2   3   4   2   2   3 |     AGG   0   0   3   0   1   2
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   2   1   1   2   3   2 | Ala GCT   4   8   2   4   5   4 | Asp GAT   2   4   1   3   2   1 | Gly GGT   0   0   2   0   0   1
+    GTC   0   0   1   1   1   0 |     GCC   1   1   3   2   2   3 |     GAC   5   2   3   2   3   4 |     GGC   0   0   1   0   1   1
+    GTA   1   1   0   0   1   1 |     GCA   5   2   3   3   4   1 | Glu GAA   2   2   0   1   1   2 |     GGA   0   0   1   0   0   0
+    GTG   0   0   0   1   3   1 |     GCG   0   1   1   1   0   1 |     GAG   4   3   3   3   2   2 |     GGG   2   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   2   2   2   3   2   4 | Ser TCT   0   0   1   1   1   1 | Tyr TAT   3   3   2   1   1   2 | Cys TGT   0   1   1   1   1   1
+    TTC   1   3   3   2   3   1 |     TCC   4   2   3   3   3   3 |     TAC   1   2   2   2   2   1 |     TGC   2   1   1   0   0   0
+Leu TTA   0   0   0   1   0   0 |     TCA   1   2   1   1   1   1 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   4   3   4   3   3   3 |     TCG   0   0   0   0   0   0 |     TAG   0   0   0   0   0   0 | Trp TGG   0   1   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   1   2   0   0   0   0 | Pro CCT   2   2   3   5   2   5 | His CAT   1   1   2   0   1   0 | Arg CGT   2   0   0   0   0   0
+    CTC   1   2   1   0   1   1 |     CCC   1   0   0   0   3   0 |     CAC   3   4   3   4   3   4 |     CGC   0   0   1   2   2   2
+    CTA   2   2   2   1   0   3 |     CCA   1   2   2   0   0   0 | Gln CAA   3   3   0   1   1   1 |     CGA   0   0   1   1   0   0
+    CTG   6   5   4   7   8   5 |     CCG   0   1   1   0   0   0 |     CAG   0   2   2   1   2   2 |     CGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   6   3   2   2   1   3 | Thr ACT   2   2   5   3   2   3 | Asn AAT   0   0   0   0   0   0 | Ser AGT   1   1   1   0   0   0
+    ATC   2   2   3   2   3   1 |     ACC   1   0   0   0   1   0 |     AAC   1   0   0   0   0   0 |     AGC   0   1   0   0   0   0
+    ATA   2   1   0   0   0   0 |     ACA   2   1   1   2   1   1 | Lys AAA   2   1   1   2   2   2 | Arg AGA   0   1   0   0   0   0
+Met ATG   1   4   3   5   5   5 |     ACG   0   0   0   0   1   1 |     AAG   4   4   4   4   4   4 |     AGG   3   1   2   2   2   2
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   0   2   1   2   2   1 | Ala GCT   5   4   4   5   5   5 | Asp GAT   1   2   2   2   0   2 | Gly GGT   1   1   0   2   2   2
+    GTC   0   0   1   0   0   1 |     GCC   2   3   3   3   3   3 |     GAC   5   4   4   3   5   3 |     GGC   0   0   0   0   0   0
+    GTA   1   0   1   1   0   1 |     GCA   2   1   2   1   1   1 | Glu GAA   1   0   1   3   3   3 |     GGA   1   1   1   0   0   0
+    GTG   0   1   2   1   2   1 |     GCG   0   0   1   1   1   1 |     GAG   3   3   3   3   3   3 |     GGG   0   0   0   1   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------
+Phe TTT   4 | Ser TCT   1 | Tyr TAT   1 | Cys TGT   1
+    TTC   1 |     TCC   3 |     TAC   2 |     TGC   0
+Leu TTA   0 |     TCA   1 | *** TAA   0 | *** TGA   0
+    TTG   2 |     TCG   0 |     TAG   0 | Trp TGG   0
+------------------------------------------------------
+Leu CTT   0 | Pro CCT   4 | His CAT   0 | Arg CGT   0
+    CTC   1 |     CCC   1 |     CAC   4 |     CGC   2
+    CTA   3 |     CCA   0 | Gln CAA   0 |     CGA   1
+    CTG   6 |     CCG   0 |     CAG   2 |     CGG   0
+------------------------------------------------------
+Ile ATT   2 | Thr ACT   3 | Asn AAT   0 | Ser AGT   0
+    ATC   2 |     ACC   0 |     AAC   0 |     AGC   0
+    ATA   0 |     ACA   2 | Lys AAA   2 | Arg AGA   0
+Met ATG   5 |     ACG   0 |     AAG   4 |     AGG   2
+------------------------------------------------------
+Val GTT   2 | Ala GCT   5 | Asp GAT   2 | Gly GGT   2
+    GTC   0 |     GCC   3 |     GAC   3 |     GGC   0
+    GTA   1 |     GCA   2 | Glu GAA   3 |     GGA   0
+    GTG   1 |     GCG   0 |     GAG   3 |     GGG   1
+------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: Gallus_gallus  
+position  1:    T:0.17778    C:0.21111    A:0.26667    G:0.34444
+position  2:    T:0.31111    C:0.24444    A:0.35556    G:0.08889
+position  3:    T:0.26667    C:0.21111    A:0.26667    G:0.25556
+Average         T:0.25185    C:0.22222    A:0.29630    G:0.22963
+
+#2: Coturnix_japonica
+position  1:    T:0.17778    C:0.21111    A:0.26667    G:0.34444
+position  2:    T:0.31111    C:0.24444    A:0.34444    G:0.10000
+position  3:    T:0.28889    C:0.21111    A:0.25556    G:0.24444
+Average         T:0.25926    C:0.22222    A:0.28889    G:0.22963
+
+#3: Phasianus_colchicus
+position  1:    T:0.16667    C:0.22222    A:0.26667    G:0.34444
+position  2:    T:0.31111    C:0.24444    A:0.34444    G:0.10000
+position  3:    T:0.24444    C:0.24444    A:0.26667    G:0.24444
+Average         T:0.24074    C:0.23704    A:0.29259    G:0.22963
+
+#4: Meleagris_gallopavo
+position  1:    T:0.17778    C:0.22222    A:0.26667    G:0.33333
+position  2:    T:0.31111    C:0.24444    A:0.33333    G:0.11111
+position  3:    T:0.24444    C:0.23333    A:0.26667    G:0.25556
+Average         T:0.24444    C:0.23333    A:0.28889    G:0.23333
+
+#5: Anas_platyrhynchos
+position  1:    T:0.18889    C:0.20000    A:0.24444    G:0.36667
+position  2:    T:0.31111    C:0.25556    A:0.34444    G:0.08889
+position  3:    T:0.33333    C:0.13333    A:0.33333    G:0.20000
+Average         T:0.27778    C:0.19630    A:0.30741    G:0.21852
+
+#6: Ficedula_albicollis
+position  1:    T:0.14444    C:0.23333    A:0.30000    G:0.32222
+position  2:    T:0.32222    C:0.22222    A:0.34444    G:0.11111
+position  3:    T:0.28889    C:0.22222    A:0.28889    G:0.20000
+Average         T:0.25185    C:0.22593    A:0.31111    G:0.21111
+
+#7: Camarhynchus_parvulus
+position  1:    T:0.14444    C:0.23333    A:0.31111    G:0.31111
+position  2:    T:0.32222    C:0.23333    A:0.33333    G:0.11111
+position  3:    T:0.31111    C:0.21111    A:0.23333    G:0.24444
+Average         T:0.25926    C:0.22593    A:0.29259    G:0.22222
+
+#8: Catharus_ustulatus
+position  1:    T:0.14444    C:0.23333    A:0.31111    G:0.31111
+position  2:    T:0.32222    C:0.23333    A:0.34444    G:0.10000
+position  3:    T:0.27778    C:0.23333    A:0.30000    G:0.18889
+Average         T:0.24815    C:0.23333    A:0.31852    G:0.20000
+
+#9: Lonchura_striata_domestica
+position  1:    T:0.14444    C:0.23333    A:0.31111    G:0.31111
+position  2:    T:0.32222    C:0.23333    A:0.34444    G:0.10000
+position  3:    T:0.30000    C:0.21111    A:0.27778    G:0.21111
+Average         T:0.25556    C:0.22593    A:0.31111    G:0.20741
+
+#10: Serinus_canaria
+position  1:    T:0.14444    C:0.23333    A:0.31111    G:0.31111
+position  2:    T:0.32222    C:0.23333    A:0.33333    G:0.11111
+position  3:    T:0.28889    C:0.22222    A:0.27778    G:0.21111
+Average         T:0.25185    C:0.22963    A:0.30741    G:0.21111
+
+#11: Corvus_moneduloides
+position  1:    T:0.15556    C:0.22222    A:0.31111    G:0.31111
+position  2:    T:0.32222    C:0.23333    A:0.34444    G:0.10000
+position  3:    T:0.35556    C:0.16667    A:0.27778    G:0.20000
+Average         T:0.27778    C:0.20741    A:0.31111    G:0.20370
+
+#12: Parus_major    
+position  1:    T:0.15556    C:0.22222    A:0.31111    G:0.31111
+position  2:    T:0.32222    C:0.23333    A:0.33333    G:0.11111
+position  3:    T:0.31111    C:0.20000    A:0.26667    G:0.22222
+Average         T:0.26296    C:0.21852    A:0.30370    G:0.21481
+
+#13: Cyanistes_caeruleus
+position  1:    T:0.15556    C:0.22222    A:0.31111    G:0.31111
+position  2:    T:0.32222    C:0.23333    A:0.33333    G:0.11111
+position  3:    T:0.28889    C:0.22222    A:0.27778    G:0.21111
+Average         T:0.25556    C:0.22593    A:0.30741    G:0.21111
+
+#14: Numida_meleagris
+position  1:    T:0.22222    C:0.24444    A:0.25556    G:0.27778
+position  2:    T:0.34444    C:0.30000    A:0.25556    G:0.10000
+position  3:    T:0.34444    C:0.22222    A:0.20000    G:0.23333
+Average         T:0.30370    C:0.25556    A:0.23704    G:0.20370
+
+#15: Athene_cunicularia
+position  1:    T:0.24444    C:0.17778    A:0.33333    G:0.24444
+position  2:    T:0.35556    C:0.22222    A:0.26667    G:0.15556
+position  3:    T:0.26667    C:0.27778    A:0.17778    G:0.27778
+Average         T:0.28889    C:0.22593    A:0.25926    G:0.22593
+
+#16: Melopsittacus_undulatus
+position  1:    T:0.22472    C:0.22472    A:0.29213    G:0.25843
+position  2:    T:0.35955    C:0.28090    A:0.29213    G:0.06742
+position  3:    T:0.34831    C:0.21348    A:0.17978    G:0.25843
+Average         T:0.31086    C:0.23970    A:0.25468    G:0.19476
+
+#17: Strigops_habroptila
+position  1:    T:0.21111    C:0.24444    A:0.23333    G:0.31111
+position  2:    T:0.35556    C:0.24444    A:0.28889    G:0.11111
+position  3:    T:0.30000    C:0.24444    A:0.18889    G:0.26667
+Average         T:0.28889    C:0.24444    A:0.23704    G:0.22963
+
+#18: Columba_livia  
+position  1:    T:0.22222    C:0.25556    A:0.25556    G:0.26667
+position  2:    T:0.34444    C:0.26667    A:0.28889    G:0.10000
+position  3:    T:0.26667    C:0.30000    A:0.17778    G:0.25556
+Average         T:0.27778    C:0.27407    A:0.24074    G:0.20741
+
+#19: Anser_cygnoides_domesticus
+position  1:    T:0.20000    C:0.25556    A:0.30000    G:0.24444
+position  2:    T:0.32222    C:0.25556    A:0.31111    G:0.11111
+position  3:    T:0.30000    C:0.26667    A:0.20000    G:0.23333
+Average         T:0.27407    C:0.25926    A:0.27037    G:0.19630
+
+#20: Aquila_chrysaetos_chrysaetos
+position  1:    T:0.22222    C:0.28889    A:0.24444    G:0.24444
+position  2:    T:0.35556    C:0.22222    A:0.32222    G:0.10000
+position  3:    T:0.28889    C:0.26667    A:0.16667    G:0.27778
+Average         T:0.28889    C:0.25926    A:0.24444    G:0.20741
+
+#21: Calidris_pugnax
+position  1:    T:0.22222    C:0.24444    A:0.24444    G:0.28889
+position  2:    T:0.32222    C:0.30000    A:0.28889    G:0.08889
+position  3:    T:0.28889    C:0.27778    A:0.14444    G:0.28889
+Average         T:0.27778    C:0.27407    A:0.22593    G:0.22222
+
+#22: Struthio_camelus_australis
+position  1:    T:0.20000    C:0.24444    A:0.24444    G:0.31111
+position  2:    T:0.33333    C:0.27778    A:0.28889    G:0.10000
+position  3:    T:0.30000    C:0.23333    A:0.15556    G:0.31111
+Average         T:0.27778    C:0.25185    A:0.22963    G:0.24074
+
+#23: Nothoprocta_perdicaria
+position  1:    T:0.18889    C:0.25556    A:0.24444    G:0.31111
+position  2:    T:0.33333    C:0.27778    A:0.30000    G:0.08889
+position  3:    T:0.22222    C:0.32222    A:0.10000    G:0.35556
+Average         T:0.24815    C:0.28519    A:0.21481    G:0.25185
+
+#24: Dromaius_novaehollandiae
+position  1:    T:0.18889    C:0.25556    A:0.24444    G:0.31111
+position  2:    T:0.33333    C:0.27778    A:0.30000    G:0.08889
+position  3:    T:0.32222    C:0.22222    A:0.14444    G:0.31111
+Average         T:0.28148    C:0.25185    A:0.22963    G:0.23704
+
+#25: Apteryx_rowi   
+position  1:    T:0.17778    C:0.26667    A:0.24444    G:0.31111
+position  2:    T:0.33333    C:0.27778    A:0.28889    G:0.10000
+position  3:    T:0.30000    C:0.24444    A:0.16667    G:0.28889
+Average         T:0.27037    C:0.26296    A:0.23333    G:0.23333
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      49 | Ser S TCT      19 | Tyr Y TAT      37 | Cys C TGT      18
+      TTC      49 |       TCC      32 |       TAC      60 |       TGC      24
+Leu L TTA      27 |       TCA      39 | *** * TAA       0 | *** * TGA       0
+      TTG      54 |       TCG       5 |       TAG       0 | Trp W TGG       1
+------------------------------------------------------------------------------
+Leu L CTT      34 | Pro P CCT      68 | His H CAT      21 | Arg R CGT       6
+      CTC      15 |       CCC      13 |       CAC      79 |       CGC       9
+      CTA      41 |       CCA      25 | Gln Q CAA      28 |       CGA      11
+      CTG     127 |       CCG       3 |       CAG      34 |       CGG      13
+------------------------------------------------------------------------------
+Ile I ATT      91 | Thr T ACT      48 | Asn N AAT      22 | Ser S AGT      25
+      ATC      41 |       ACC      19 |       AAC      18 |       AGC       5
+      ATA      24 |       ACA      33 | Lys K AAA      62 | Arg R AGA      44
+Met M ATG      97 |       ACG      10 |       AAG      61 |       AGG      23
+------------------------------------------------------------------------------
+Val V GTT      48 | Ala A GCT     108 | Asp D GAT      53 | Gly G GGT      14
+      GTC       5 |       GCC      50 |       GAC     101 |       GGC       3
+      GTA      18 |       GCA      83 | Glu E GAA      55 |       GGA      13
+      GTG      20 |       GCG      11 |       GAG      82 |       GGG      21
+------------------------------------------------------------------------------
+
+(Ambiguity data are not used in the counts.)
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.18408    C:0.23433    A:0.27701    G:0.30458
+position  2:    T:0.32904    C:0.25167    A:0.31703    G:0.10227
+position  3:    T:0.29391    C:0.23255    A:0.22365    G:0.24989
+Average         T:0.26901    C:0.23951    A:0.27257    G:0.21891
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.02058654  0.01830922  0.02083580  0.01673435
+  0.01830922  0.01628382  0.01853090  0.01488317
+  0.02083580  0.01853090  0.00000000  0.00000000
+  0.01673435  0.01488317  0.00000000  0.01360299
+  0.01830922  0.01628382  0.01853090  0.01488317
+  0.01628382  0.01448247  0.01648098  0.01323676
+  0.01853090  0.01648098  0.01875527  0.01506337
+  0.01488317  0.01323676  0.01506337  0.01209820
+  0.02083580  0.01853090  0.02108807  0.01693697
+  0.01853090  0.01648098  0.01875527  0.01506337
+  0.02108807  0.01875527  0.02134341  0.01714204
+  0.01693697  0.01506337  0.01714204  0.01376770
+  0.01673435  0.01488317  0.01693697  0.01360299
+  0.01488317  0.01323676  0.01506337  0.01209820
+  0.01693697  0.01506337  0.01714204  0.01376770
+  0.01360299  0.01209820  0.01376770  0.01105758
+
+
+Model 0: one-ratio
+
+
+TREE #  1:  ((((25, 24), 23), 22), (((((16, 17), ((((7, (9, 10)), 11), (6, 8)), (13, 12))), (15, 20)), (21, 18)), ((5, 19), (((1, (3, 4)), 2), 14))));   MP score: -1
+This is a rooted tree.  Please check!
+lnL(ntime: 48  np: 50):  -2824.090110      +0.000000
+  26..27   27..28   28..29   29..25   29..24   28..23   27..22   26..30   30..31   31..32   32..33   33..34   34..16   34..17   33..35   35..36   36..37   37..38   38..7    38..39   39..9    39..10   37..11   36..40   40..6    40..8    35..41   41..13   41..12   32..42   42..15   42..20   31..43   43..21   43..18   30..44   44..45   45..5    45..19   44..46   46..47   47..48   48..1    48..49   49..3    49..4    47..2    46..14 
+ 0.056474 0.009792 0.023660 0.058682 0.054477 0.159793 0.049136 0.099649 0.083872 0.021596 0.215136 0.245079 0.409217 0.211039 1.379267 0.043123 0.010508 0.015613 0.124687 0.000004 0.024862 0.101356 0.078771 0.025703 0.044498 0.046461 0.000004 0.012397 0.021250 0.077398 0.526789 0.319818 0.000004 0.157476 0.309202 0.112325 0.000004 1.382436 0.472651 0.000004 1.295806 0.109822 0.026794 0.058064 0.036205 0.020587 0.015893 0.727476 2.725451 0.286859
+SEs for parameters:
+ -1.000000 0.015955 0.024033 0.034794 0.042380 0.076123 0.034072 -1.000000 0.080244 0.026577 0.141335 0.122768 0.123933 0.080747 0.471886 0.063129 0.016966 0.049723 0.061749 0.124937 0.145326 0.062264 0.064290 0.034866 0.041495 0.038416 0.063229 0.014439 0.032741 0.050429 0.122967 0.122619 0.037745 0.071075 0.117601 0.082242 0.107967 0.530751 0.142087 0.203975 0.506895 0.079830 0.042793 0.043302 0.030424 0.151800 0.058325 0.250637 0.326748 0.033847
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =  9.274864
+
+((((25: 0.058682, 24: 0.054477): 0.023660, 23: 0.159793): 0.009792, 22: 0.049136): 0.056474, (((((16: 0.409217, 17: 0.211039): 0.245079, ((((7: 0.124687, (9: 0.024862, 10: 0.101356): 0.000004): 0.015613, 11: 0.078771): 0.010508, (6: 0.044498, 8: 0.046461): 0.025703): 0.043123, (13: 0.012397, 12: 0.021250): 0.000004): 1.379267): 0.215136, (15: 0.526789, 20: 0.319818): 0.077398): 0.021596, (21: 0.157476, 18: 0.309202): 0.000004): 0.083872, ((5: 1.382436, 19: 0.472651): 0.000004, (((1: 0.026794, (3: 0.036205, 4: 0.020587): 0.058064): 0.109822, 2: 0.015893): 1.295806, 14: 0.727476): 0.000004): 0.112325): 0.099649);
+
+((((Apteryx_rowi: 0.058682, Dromaius_novaehollandiae: 0.054477): 0.023660, Nothoprocta_perdicaria: 0.159793): 0.009792, Struthio_camelus_australis: 0.049136): 0.056474, (((((Melopsittacus_undulatus: 0.409217, Strigops_habroptila: 0.211039): 0.245079, ((((Camarhynchus_parvulus: 0.124687, (Lonchura_striata_domestica: 0.024862, Serinus_canaria: 0.101356): 0.000004): 0.015613, Corvus_moneduloides: 0.078771): 0.010508, (Ficedula_albicollis: 0.044498, Catharus_ustulatus: 0.046461): 0.025703): 0.043123, (Cyanistes_caeruleus: 0.012397, Parus_major: 0.021250): 0.000004): 1.379267): 0.215136, (Athene_cunicularia: 0.526789, Aquila_chrysaetos_chrysaetos: 0.319818): 0.077398): 0.021596, (Calidris_pugnax: 0.157476, Columba_livia: 0.309202): 0.000004): 0.083872, ((Anas_platyrhynchos: 1.382436, Anser_cygnoides_domesticus: 0.472651): 0.000004, (((Gallus_gallus: 0.026794, (Phasianus_colchicus: 0.036205, Meleagris_gallopavo: 0.020587): 0.058064): 0.109822, Coturnix_japonica: 0.015893): 1.295806, Numida_meleagris: 0.727476): 0.000004): 0.112325): 0.099649);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  2.72545
+
+omega (dN/dS) =  0.28686
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  26..27     0.056   196.1    76.9  0.2869  0.0111  0.0386   2.2   3.0
+  27..28     0.010   196.1    76.9  0.2869  0.0019  0.0067   0.4   0.5
+  28..29     0.024   196.1    76.9  0.2869  0.0046  0.0162   0.9   1.2
+  29..25     0.059   196.1    76.9  0.2869  0.0115  0.0401   2.3   3.1
+  29..24     0.054   196.1    76.9  0.2869  0.0107  0.0372   2.1   2.9
+  28..23     0.160   196.1    76.9  0.2869  0.0313  0.1092   6.1   8.4
+  27..22     0.049   196.1    76.9  0.2869  0.0096  0.0336   1.9   2.6
+  26..30     0.100   196.1    76.9  0.2869  0.0195  0.0681   3.8   5.2
+  30..31     0.084   196.1    76.9  0.2869  0.0164  0.0573   3.2   4.4
+  31..32     0.022   196.1    76.9  0.2869  0.0042  0.0148   0.8   1.1
+  32..33     0.215   196.1    76.9  0.2869  0.0422  0.1470   8.3  11.3
+  33..34     0.245   196.1    76.9  0.2869  0.0480  0.1675   9.4  12.9
+  34..16     0.409   196.1    76.9  0.2869  0.0802  0.2797  15.7  21.5
+  34..17     0.211   196.1    76.9  0.2869  0.0414  0.1442   8.1  11.1
+  33..35     1.379   196.1    76.9  0.2869  0.2704  0.9426  53.0  72.5
+  35..36     0.043   196.1    76.9  0.2869  0.0085  0.0295   1.7   2.3
+  36..37     0.011   196.1    76.9  0.2869  0.0021  0.0072   0.4   0.6
+  37..38     0.016   196.1    76.9  0.2869  0.0031  0.0107   0.6   0.8
+  38..7      0.125   196.1    76.9  0.2869  0.0244  0.0852   4.8   6.6
+  38..39     0.000   196.1    76.9  0.2869  0.0000  0.0000   0.0   0.0
+  39..9      0.025   196.1    76.9  0.2869  0.0049  0.0170   1.0   1.3
+  39..10     0.101   196.1    76.9  0.2869  0.0199  0.0693   3.9   5.3
+  37..11     0.079   196.1    76.9  0.2869  0.0154  0.0538   3.0   4.1
+  36..40     0.026   196.1    76.9  0.2869  0.0050  0.0176   1.0   1.4
+  40..6      0.044   196.1    76.9  0.2869  0.0087  0.0304   1.7   2.3
+  40..8      0.046   196.1    76.9  0.2869  0.0091  0.0318   1.8   2.4
+  35..41     0.000   196.1    76.9  0.2869  0.0000  0.0000   0.0   0.0
+  41..13     0.012   196.1    76.9  0.2869  0.0024  0.0085   0.5   0.7
+  41..12     0.021   196.1    76.9  0.2869  0.0042  0.0145   0.8   1.1
+  32..42     0.077   196.1    76.9  0.2869  0.0152  0.0529   3.0   4.1
+  42..15     0.527   196.1    76.9  0.2869  0.1033  0.3600  20.3  27.7
+  42..20     0.320   196.1    76.9  0.2869  0.0627  0.2186  12.3  16.8
+  31..43     0.000   196.1    76.9  0.2869  0.0000  0.0000   0.0   0.0
+  43..21     0.157   196.1    76.9  0.2869  0.0309  0.1076   6.1   8.3
+  43..18     0.309   196.1    76.9  0.2869  0.0606  0.2113  11.9  16.3
+  30..44     0.112   196.1    76.9  0.2869  0.0220  0.0768   4.3   5.9
+  44..45     0.000   196.1    76.9  0.2869  0.0000  0.0000   0.0   0.0
+  45..5      1.382   196.1    76.9  0.2869  0.2710  0.9448  53.1  72.7
+  45..19     0.473   196.1    76.9  0.2869  0.0927  0.3230  18.2  24.8
+  44..46     0.000   196.1    76.9  0.2869  0.0000  0.0000   0.0   0.0
+  46..47     1.296   196.1    76.9  0.2869  0.2540  0.8856  49.8  68.1
+  47..48     0.110   196.1    76.9  0.2869  0.0215  0.0751   4.2   5.8
+  48..1      0.027   196.1    76.9  0.2869  0.0053  0.0183   1.0   1.4
+  48..49     0.058   196.1    76.9  0.2869  0.0114  0.0397   2.2   3.1
+  49..3      0.036   196.1    76.9  0.2869  0.0071  0.0247   1.4   1.9
+  49..4      0.021   196.1    76.9  0.2869  0.0040  0.0141   0.8   1.1
+  47..2      0.016   196.1    76.9  0.2869  0.0031  0.0109   0.6   0.8
+  46..14     0.727   196.1    76.9  0.2869  0.1426  0.4972  28.0  38.2
+
+tree length for dN:       1.8183
+tree length for dS:       6.3387
+
+
+Tree comparisons (Kishino & Hasegawa 1989; Shimodaira & Hasegawa 1999)
+Number of replicates: 10000
+
+Time used:  1:12
+
+
+Model 1: NearlyNeutral (2 categories)
+
+
+TREE #  1:  ((((25, 24), 23), 22), (((((16, 17), ((((7, (9, 10)), 11), (6, 8)), (13, 12))), (15, 20)), (21, 18)), ((5, 19), (((1, (3, 4)), 2), 14))));   MP score: -1
+This is a rooted tree.  Please check!
+lnL(ntime: 48  np: 51):  -2768.569208      +0.000000
+  26..27   27..28   28..29   29..25   29..24   28..23   27..22   26..30   30..31   31..32   32..33   33..34   34..16   34..17   33..35   35..36   36..37   37..38   38..7    38..39   39..9    39..10   37..11   36..40   40..6    40..8    35..41   41..13   41..12   32..42   42..15   42..20   31..43   43..21   43..18   30..44   44..45   45..5    45..19   44..46   46..47   47..48   48..1    48..49   49..3    49..4    47..2    46..14 
+ 0.094733 0.010858 0.023265 0.056372 0.056001 0.160206 0.046222 0.064310 0.086687 0.016625 0.145111 0.321503 0.424639 0.203921 1.621098 0.042585 0.010642 0.015235 0.123118 0.000004 0.024756 0.100004 0.077720 0.024999 0.044107 0.046158 0.000004 0.012387 0.020854 0.052029 0.560024 0.349935 0.000004 0.158412 0.309449 0.089182 0.000004 1.534182 0.471431 0.000004 1.441913 0.123696 0.026991 0.057367 0.035972 0.020330 0.000004 0.757358 3.202166 0.526191 0.093436
+SEs for parameters:
+ -1.000000 0.015916 0.023364 0.035491 0.046732 0.077633 0.032673 -1.000000 0.077815 0.031839 0.158548 0.171174 0.126217 0.082654 0.610312 0.068642 0.016375 0.032994 0.063006 0.146749 0.139121 0.059398 0.062801 0.034191 0.040540 0.036509 0.058027 0.015249 0.030771 0.063197 0.145663 0.136435 0.110433 0.069293 0.125906 0.075490 0.132353 0.632828 0.164236 0.222001 0.628279 0.116776 0.041333 0.045216 0.030754 0.143305 0.109468 0.270096 0.387069 0.100611 0.021139
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =  9.862410
+
+((((25: 0.056372, 24: 0.056001): 0.023265, 23: 0.160206): 0.010858, 22: 0.046222): 0.094733, (((((16: 0.424639, 17: 0.203921): 0.321503, ((((7: 0.123118, (9: 0.024756, 10: 0.100004): 0.000004): 0.015235, 11: 0.077720): 0.010642, (6: 0.044107, 8: 0.046158): 0.024999): 0.042585, (13: 0.012387, 12: 0.020854): 0.000004): 1.621098): 0.145111, (15: 0.560024, 20: 0.349935): 0.052029): 0.016625, (21: 0.158412, 18: 0.309449): 0.000004): 0.086687, ((5: 1.534182, 19: 0.471431): 0.000004, (((1: 0.026991, (3: 0.035972, 4: 0.020330): 0.057367): 0.123696, 2: 0.000004): 1.441913, 14: 0.757358): 0.000004): 0.089182): 0.064310);
+
+((((Apteryx_rowi: 0.056372, Dromaius_novaehollandiae: 0.056001): 0.023265, Nothoprocta_perdicaria: 0.160206): 0.010858, Struthio_camelus_australis: 0.046222): 0.094733, (((((Melopsittacus_undulatus: 0.424639, Strigops_habroptila: 0.203921): 0.321503, ((((Camarhynchus_parvulus: 0.123118, (Lonchura_striata_domestica: 0.024756, Serinus_canaria: 0.100004): 0.000004): 0.015235, Corvus_moneduloides: 0.077720): 0.010642, (Ficedula_albicollis: 0.044107, Catharus_ustulatus: 0.046158): 0.024999): 0.042585, (Cyanistes_caeruleus: 0.012387, Parus_major: 0.020854): 0.000004): 1.621098): 0.145111, (Athene_cunicularia: 0.560024, Aquila_chrysaetos_chrysaetos: 0.349935): 0.052029): 0.016625, (Calidris_pugnax: 0.158412, Columba_livia: 0.309449): 0.000004): 0.086687, ((Anas_platyrhynchos: 1.534182, Anser_cygnoides_domesticus: 0.471431): 0.000004, (((Gallus_gallus: 0.026991, (Phasianus_colchicus: 0.035972, Meleagris_gallopavo: 0.020330): 0.057367): 0.123696, Coturnix_japonica: 0.000004): 1.441913, Numida_meleagris: 0.757358): 0.000004): 0.089182): 0.064310);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  3.20217
+
+
+MLEs of dN/dS (w) for site classes (K=2)
+
+p:   0.52619  0.47381
+w:   0.09344  1.00000
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  26..27      0.095    194.4     78.6   0.5230   0.0250   0.0478    4.9    3.8
+  27..28      0.011    194.4     78.6   0.5230   0.0029   0.0055    0.6    0.4
+  28..29      0.023    194.4     78.6   0.5230   0.0061   0.0117    1.2    0.9
+  29..25      0.056    194.4     78.6   0.5230   0.0149   0.0285    2.9    2.2
+  29..24      0.056    194.4     78.6   0.5230   0.0148   0.0283    2.9    2.2
+  28..23      0.160    194.4     78.6   0.5230   0.0423   0.0809    8.2    6.4
+  27..22      0.046    194.4     78.6   0.5230   0.0122   0.0233    2.4    1.8
+  26..30      0.064    194.4     78.6   0.5230   0.0170   0.0325    3.3    2.6
+  30..31      0.087    194.4     78.6   0.5230   0.0229   0.0438    4.4    3.4
+  31..32      0.017    194.4     78.6   0.5230   0.0044   0.0084    0.9    0.7
+  32..33      0.145    194.4     78.6   0.5230   0.0383   0.0733    7.4    5.8
+  33..34      0.322    194.4     78.6   0.5230   0.0849   0.1623   16.5   12.8
+  34..16      0.425    194.4     78.6   0.5230   0.1121   0.2144   21.8   16.8
+  34..17      0.204    194.4     78.6   0.5230   0.0538   0.1029   10.5    8.1
+  33..35      1.621    194.4     78.6   0.5230   0.4280   0.8183   83.2   64.3
+  35..36      0.043    194.4     78.6   0.5230   0.0112   0.0215    2.2    1.7
+  36..37      0.011    194.4     78.6   0.5230   0.0028   0.0054    0.5    0.4
+  37..38      0.015    194.4     78.6   0.5230   0.0040   0.0077    0.8    0.6
+  38..7       0.123    194.4     78.6   0.5230   0.0325   0.0622    6.3    4.9
+  38..39      0.000    194.4     78.6   0.5230   0.0000   0.0000    0.0    0.0
+  39..9       0.025    194.4     78.6   0.5230   0.0065   0.0125    1.3    1.0
+  39..10      0.100    194.4     78.6   0.5230   0.0264   0.0505    5.1    4.0
+  37..11      0.078    194.4     78.6   0.5230   0.0205   0.0392    4.0    3.1
+  36..40      0.025    194.4     78.6   0.5230   0.0066   0.0126    1.3    1.0
+  40..6       0.044    194.4     78.6   0.5230   0.0116   0.0223    2.3    1.8
+  40..8       0.046    194.4     78.6   0.5230   0.0122   0.0233    2.4    1.8
+  35..41      0.000    194.4     78.6   0.5230   0.0000   0.0000    0.0    0.0
+  41..13      0.012    194.4     78.6   0.5230   0.0033   0.0063    0.6    0.5
+  41..12      0.021    194.4     78.6   0.5230   0.0055   0.0105    1.1    0.8
+  32..42      0.052    194.4     78.6   0.5230   0.0137   0.0263    2.7    2.1
+  42..15      0.560    194.4     78.6   0.5230   0.1478   0.2827   28.7   22.2
+  42..20      0.350    194.4     78.6   0.5230   0.0924   0.1766   18.0   13.9
+  31..43      0.000    194.4     78.6   0.5230   0.0000   0.0000    0.0    0.0
+  43..21      0.158    194.4     78.6   0.5230   0.0418   0.0800    8.1    6.3
+  43..18      0.309    194.4     78.6   0.5230   0.0817   0.1562   15.9   12.3
+  30..44      0.089    194.4     78.6   0.5230   0.0235   0.0450    4.6    3.5
+  44..45      0.000    194.4     78.6   0.5230   0.0000   0.0000    0.0    0.0
+  45..5       1.534    194.4     78.6   0.5230   0.4050   0.7745   78.7   60.9
+  45..19      0.471    194.4     78.6   0.5230   0.1245   0.2380   24.2   18.7
+  44..46      0.000    194.4     78.6   0.5230   0.0000   0.0000    0.0    0.0
+  46..47      1.442    194.4     78.6   0.5230   0.3807   0.7279   74.0   57.2
+  47..48      0.124    194.4     78.6   0.5230   0.0327   0.0624    6.3    4.9
+  48..1       0.027    194.4     78.6   0.5230   0.0071   0.0136    1.4    1.1
+  48..49      0.057    194.4     78.6   0.5230   0.0151   0.0290    2.9    2.3
+  49..3       0.036    194.4     78.6   0.5230   0.0095   0.0182    1.8    1.4
+  49..4       0.020    194.4     78.6   0.5230   0.0054   0.0103    1.0    0.8
+  47..2       0.000    194.4     78.6   0.5230   0.0000   0.0000    0.0    0.0
+  46..14      0.757    194.4     78.6   0.5230   0.1999   0.3823   38.9   30.1
+
+
+Tree comparisons (Kishino & Hasegawa 1989; Shimodaira & Hasegawa 1999)
+Number of replicates: 10000
+
+Time used:  3:20
+
+
+Model 2: PositiveSelection (3 categories)
+
+
+TREE #  1:  ((((25, 24), 23), 22), (((((16, 17), ((((7, (9, 10)), 11), (6, 8)), (13, 12))), (15, 20)), (21, 18)), ((5, 19), (((1, (3, 4)), 2), 14))));   MP score: -1
+This is a rooted tree.  Please check!
+lnL(ntime: 48  np: 53):  -2768.569208      +0.000000
+  26..27   27..28   28..29   29..25   29..24   28..23   27..22   26..30   30..31   31..32   32..33   33..34   34..16   34..17   33..35   35..36   36..37   37..38   38..7    38..39   39..9    39..10   37..11   36..40   40..6    40..8    35..41   41..13   41..12   32..42   42..15   42..20   31..43   43..21   43..18   30..44   44..45   45..5    45..19   44..46   46..47   47..48   48..1    48..49   49..3    49..4    47..2    46..14 
+ 0.074522 0.010858 0.023265 0.056372 0.056001 0.160206 0.046222 0.084521 0.086687 0.016625 0.145111 0.321503 0.424639 0.203921 1.621098 0.042585 0.010642 0.015235 0.123118 0.000004 0.024756 0.100004 0.077720 0.024999 0.044107 0.046158 0.000004 0.012387 0.020854 0.052029 0.560024 0.349935 0.000004 0.158412 0.309449 0.089182 0.000004 1.534182 0.471431 0.000004 1.441913 0.123696 0.026991 0.057367 0.035972 0.020330 0.000004 0.757357 3.202166 0.526191 0.473809 0.093436 1.664465
+SEs for parameters:
+ 2968786.387570 0.015992 0.023472 0.036126 0.046938 0.079654 0.033213 2968786.387475 0.078187 0.033100 0.166729 0.181572 0.143139 0.084857 0.625445 0.069894 0.016438 0.041999 0.063510 0.146917 0.140063 0.064760 0.063842 0.034476 0.040560 0.036723 0.058561 0.015308 0.031189 0.068449 0.149203 0.136671 0.113117 0.072042 0.131167 0.076558 0.132527 0.650864 0.168815 0.237734 0.640431 0.117606 0.042441 0.048079 0.030817 0.144556 0.109710 0.290710 0.425469 0.100872 0.147604 0.023207 33277474.808104
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =  9.862410
+
+((((25: 0.056372, 24: 0.056001): 0.023265, 23: 0.160206): 0.010858, 22: 0.046222): 0.074522, (((((16: 0.424639, 17: 0.203921): 0.321503, ((((7: 0.123118, (9: 0.024756, 10: 0.100004): 0.000004): 0.015235, 11: 0.077720): 0.010642, (6: 0.044107, 8: 0.046158): 0.024999): 0.042585, (13: 0.012387, 12: 0.020854): 0.000004): 1.621098): 0.145111, (15: 0.560024, 20: 0.349935): 0.052029): 0.016625, (21: 0.158412, 18: 0.309449): 0.000004): 0.086687, ((5: 1.534182, 19: 0.471431): 0.000004, (((1: 0.026991, (3: 0.035972, 4: 0.020330): 0.057367): 0.123696, 2: 0.000004): 1.441913, 14: 0.757357): 0.000004): 0.089182): 0.084521);
+
+((((Apteryx_rowi: 0.056372, Dromaius_novaehollandiae: 0.056001): 0.023265, Nothoprocta_perdicaria: 0.160206): 0.010858, Struthio_camelus_australis: 0.046222): 0.074522, (((((Melopsittacus_undulatus: 0.424639, Strigops_habroptila: 0.203921): 0.321503, ((((Camarhynchus_parvulus: 0.123118, (Lonchura_striata_domestica: 0.024756, Serinus_canaria: 0.100004): 0.000004): 0.015235, Corvus_moneduloides: 0.077720): 0.010642, (Ficedula_albicollis: 0.044107, Catharus_ustulatus: 0.046158): 0.024999): 0.042585, (Cyanistes_caeruleus: 0.012387, Parus_major: 0.020854): 0.000004): 1.621098): 0.145111, (Athene_cunicularia: 0.560024, Aquila_chrysaetos_chrysaetos: 0.349935): 0.052029): 0.016625, (Calidris_pugnax: 0.158412, Columba_livia: 0.309449): 0.000004): 0.086687, ((Anas_platyrhynchos: 1.534182, Anser_cygnoides_domesticus: 0.471431): 0.000004, (((Gallus_gallus: 0.026991, (Phasianus_colchicus: 0.035972, Meleagris_gallopavo: 0.020330): 0.057367): 0.123696, Coturnix_japonica: 0.000004): 1.441913, Numida_meleagris: 0.757357): 0.000004): 0.089182): 0.084521);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  3.20217
+
+
+MLEs of dN/dS (w) for site classes (K=3)
+
+p:   0.52619  0.47381  0.00000
+w:   0.09344  1.00000  1.66447
+(note that p[2] is zero)
+
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  26..27      0.075    194.4     78.6   0.5230   0.0197   0.0376    3.8    3.0
+  27..28      0.011    194.4     78.6   0.5230   0.0029   0.0055    0.6    0.4
+  28..29      0.023    194.4     78.6   0.5230   0.0061   0.0117    1.2    0.9
+  29..25      0.056    194.4     78.6   0.5230   0.0149   0.0285    2.9    2.2
+  29..24      0.056    194.4     78.6   0.5230   0.0148   0.0283    2.9    2.2
+  28..23      0.160    194.4     78.6   0.5230   0.0423   0.0809    8.2    6.4
+  27..22      0.046    194.4     78.6   0.5230   0.0122   0.0233    2.4    1.8
+  26..30      0.085    194.4     78.6   0.5230   0.0223   0.0427    4.3    3.4
+  30..31      0.087    194.4     78.6   0.5230   0.0229   0.0438    4.4    3.4
+  31..32      0.017    194.4     78.6   0.5230   0.0044   0.0084    0.9    0.7
+  32..33      0.145    194.4     78.6   0.5230   0.0383   0.0733    7.4    5.8
+  33..34      0.322    194.4     78.6   0.5230   0.0849   0.1623   16.5   12.8
+  34..16      0.425    194.4     78.6   0.5230   0.1121   0.2144   21.8   16.8
+  34..17      0.204    194.4     78.6   0.5230   0.0538   0.1029   10.5    8.1
+  33..35      1.621    194.4     78.6   0.5230   0.4280   0.8183   83.2   64.3
+  35..36      0.043    194.4     78.6   0.5230   0.0112   0.0215    2.2    1.7
+  36..37      0.011    194.4     78.6   0.5230   0.0028   0.0054    0.5    0.4
+  37..38      0.015    194.4     78.6   0.5230   0.0040   0.0077    0.8    0.6
+  38..7       0.123    194.4     78.6   0.5230   0.0325   0.0622    6.3    4.9
+  38..39      0.000    194.4     78.6   0.5230   0.0000   0.0000    0.0    0.0
+  39..9       0.025    194.4     78.6   0.5230   0.0065   0.0125    1.3    1.0
+  39..10      0.100    194.4     78.6   0.5230   0.0264   0.0505    5.1    4.0
+  37..11      0.078    194.4     78.6   0.5230   0.0205   0.0392    4.0    3.1
+  36..40      0.025    194.4     78.6   0.5230   0.0066   0.0126    1.3    1.0
+  40..6       0.044    194.4     78.6   0.5230   0.0116   0.0223    2.3    1.8
+  40..8       0.046    194.4     78.6   0.5230   0.0122   0.0233    2.4    1.8
+  35..41      0.000    194.4     78.6   0.5230   0.0000   0.0000    0.0    0.0
+  41..13      0.012    194.4     78.6   0.5230   0.0033   0.0063    0.6    0.5
+  41..12      0.021    194.4     78.6   0.5230   0.0055   0.0105    1.1    0.8
+  32..42      0.052    194.4     78.6   0.5230   0.0137   0.0263    2.7    2.1
+  42..15      0.560    194.4     78.6   0.5230   0.1478   0.2827   28.7   22.2
+  42..20      0.350    194.4     78.6   0.5230   0.0924   0.1766   18.0   13.9
+  31..43      0.000    194.4     78.6   0.5230   0.0000   0.0000    0.0    0.0
+  43..21      0.158    194.4     78.6   0.5230   0.0418   0.0800    8.1    6.3
+  43..18      0.309    194.4     78.6   0.5230   0.0817   0.1562   15.9   12.3
+  30..44      0.089    194.4     78.6   0.5230   0.0235   0.0450    4.6    3.5
+  44..45      0.000    194.4     78.6   0.5230   0.0000   0.0000    0.0    0.0
+  45..5       1.534    194.4     78.6   0.5230   0.4050   0.7745   78.7   60.9
+  45..19      0.471    194.4     78.6   0.5230   0.1245   0.2380   24.2   18.7
+  44..46      0.000    194.4     78.6   0.5230   0.0000   0.0000    0.0    0.0
+  46..47      1.442    194.4     78.6   0.5230   0.3807   0.7279   74.0   57.2
+  47..48      0.124    194.4     78.6   0.5230   0.0327   0.0624    6.3    4.9
+  48..1       0.027    194.4     78.6   0.5230   0.0071   0.0136    1.4    1.1
+  48..49      0.057    194.4     78.6   0.5230   0.0151   0.0290    2.9    2.3
+  49..3       0.036    194.4     78.6   0.5230   0.0095   0.0182    1.8    1.4
+  49..4       0.020    194.4     78.6   0.5230   0.0054   0.0103    1.0    0.8
+  47..2       0.000    194.4     78.6   0.5230   0.0000   0.0000    0.0    0.0
+  46..14      0.757    194.4     78.6   0.5230   0.1999   0.3823   38.9   30.1
+
+
+Naive Empirical Bayes (NEB) analysis
+Bayes Empirical Bayes (BEB) analysis (Yang, Wong & Nielsen 2005. Mol. Biol. Evol. 22:1107-1118)
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: Gallus_gallus)
+
+            Pr(w>1)     post mean +- SE for w
+
+
+
+
+The grid (see ternary graph for p0-p1)
+
+w0:   0.050  0.150  0.250  0.350  0.450  0.550  0.650  0.750  0.850  0.950
+w2:   1.500  2.500  3.500  4.500  5.500  6.500  7.500  8.500  9.500 10.500
+
+
+Posterior on the grid
+
+w0:   0.304  0.696  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000
+w2:   0.443  0.270  0.091  0.041  0.029  0.026  0.025  0.025  0.025  0.025
+
+Posterior for p0-p1 (see the ternary graph) (YWN2015, fig. 1)
+
+ 0.000
+ 0.000 0.000 0.000
+ 0.000 0.000 0.000 0.000 0.000
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.007
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.007 0.168
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.002 0.048 0.346
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.001 0.007 0.102 0.262
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.002 0.004 0.032 0.010
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+ 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+
+sum of density on p0-p1 =   1.000000
+
+Tree comparisons (Kishino & Hasegawa 1989; Shimodaira & Hasegawa 1999)
+Number of replicates: 10000
+
+Time used:  9:42
+
+
+Model 7: beta (10 categories)
+
+
+TREE #  1:  ((((25, 24), 23), 22), (((((16, 17), ((((7, (9, 10)), 11), (6, 8)), (13, 12))), (15, 20)), (21, 18)), ((5, 19), (((1, (3, 4)), 2), 14))));   MP score: -1
+This is a rooted tree.  Please check!
+lnL(ntime: 48  np: 51):  -2749.531152      +0.000000
+  26..27   27..28   28..29   29..25   29..24   28..23   27..22   26..30   30..31   31..32   32..33   33..34   34..16   34..17   33..35   35..36   36..37   37..38   38..7    38..39   39..9    39..10   37..11   36..40   40..6    40..8    35..41   41..13   41..12   32..42   42..15   42..20   31..43   43..21   43..18   30..44   44..45   45..5    45..19   44..46   46..47   47..48   48..1    48..49   49..3    49..4    47..2    46..14 
+ 0.054393 0.009991 0.023621 0.057501 0.055910 0.161439 0.047741 0.110368 0.083328 0.024449 0.167285 0.296666 0.435480 0.205602 1.618045 0.042892 0.010530 0.015430 0.124416 0.000004 0.024655 0.101135 0.078209 0.025419 0.044534 0.046215 0.000004 0.012210 0.021203 0.059904 0.558138 0.342323 0.000004 0.158808 0.313624 0.074393 0.000004 1.598656 0.484717 0.000004 1.512296 0.125144 0.026818 0.057944 0.036035 0.020571 0.000004 0.790883 2.879925 0.479091 0.975648
+SEs for parameters:
+ 1876208.831614 0.016456 0.024376 0.035556 0.044779 0.077611 0.033021 1876208.831645 0.077790 0.031492 0.149633 0.158776 0.126736 0.082219 0.608993 0.079159 0.016505 0.034802 0.065633 0.141229 0.137564 0.061372 0.066983 0.034620 0.041204 0.037809 0.076025 0.014539 0.032521 0.054124 0.135803 0.130166 0.105682 0.069110 0.120384 0.081677 0.114435 0.654296 0.159031 0.279410 0.629210 0.107880 0.043300 0.045000 0.031302 0.145043 0.089718 0.287997 0.355315 0.143079 0.427115
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length = 10.058943
+
+((((25: 0.057501, 24: 0.055910): 0.023621, 23: 0.161439): 0.009991, 22: 0.047741): 0.054393, (((((16: 0.435480, 17: 0.205602): 0.296666, ((((7: 0.124416, (9: 0.024655, 10: 0.101135): 0.000004): 0.015430, 11: 0.078209): 0.010530, (6: 0.044534, 8: 0.046215): 0.025419): 0.042892, (13: 0.012210, 12: 0.021203): 0.000004): 1.618045): 0.167285, (15: 0.558138, 20: 0.342323): 0.059904): 0.024449, (21: 0.158808, 18: 0.313624): 0.000004): 0.083328, ((5: 1.598656, 19: 0.484717): 0.000004, (((1: 0.026818, (3: 0.036035, 4: 0.020571): 0.057944): 0.125144, 2: 0.000004): 1.512296, 14: 0.790883): 0.000004): 0.074393): 0.110368);
+
+((((Apteryx_rowi: 0.057501, Dromaius_novaehollandiae: 0.055910): 0.023621, Nothoprocta_perdicaria: 0.161439): 0.009991, Struthio_camelus_australis: 0.047741): 0.054393, (((((Melopsittacus_undulatus: 0.435480, Strigops_habroptila: 0.205602): 0.296666, ((((Camarhynchus_parvulus: 0.124416, (Lonchura_striata_domestica: 0.024655, Serinus_canaria: 0.101135): 0.000004): 0.015430, Corvus_moneduloides: 0.078209): 0.010530, (Ficedula_albicollis: 0.044534, Catharus_ustulatus: 0.046215): 0.025419): 0.042892, (Cyanistes_caeruleus: 0.012210, Parus_major: 0.021203): 0.000004): 1.618045): 0.167285, (Athene_cunicularia: 0.558138, Aquila_chrysaetos_chrysaetos: 0.342323): 0.059904): 0.024449, (Calidris_pugnax: 0.158808, Columba_livia: 0.313624): 0.000004): 0.083328, ((Anas_platyrhynchos: 1.598656, Anser_cygnoides_domesticus: 0.484717): 0.000004, (((Gallus_gallus: 0.026818, (Phasianus_colchicus: 0.036035, Meleagris_gallopavo: 0.020571): 0.057944): 0.125144, Coturnix_japonica: 0.000004): 1.512296, Numida_meleagris: 0.790883): 0.000004): 0.074393): 0.110368);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  2.87992
+
+Parameters in M7 (beta):
+ p =   0.47909  q =   0.97565
+
+
+MLEs of dN/dS (w) for site classes (K=10)
+
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000
+w:   0.00198  0.01965  0.05704  0.11502  0.19408  0.29447  0.41624  0.55920  0.72270  0.90487
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  26..27      0.054    195.5     77.5   0.3285   0.0115   0.0349    2.2    2.7
+  27..28      0.010    195.5     77.5   0.3285   0.0021   0.0064    0.4    0.5
+  28..29      0.024    195.5     77.5   0.3285   0.0050   0.0152    1.0    1.2
+  29..25      0.058    195.5     77.5   0.3285   0.0121   0.0369    2.4    2.9
+  29..24      0.056    195.5     77.5   0.3285   0.0118   0.0359    2.3    2.8
+  28..23      0.161    195.5     77.5   0.3285   0.0341   0.1037    6.7    8.0
+  27..22      0.048    195.5     77.5   0.3285   0.0101   0.0307    2.0    2.4
+  26..30      0.110    195.5     77.5   0.3285   0.0233   0.0709    4.6    5.5
+  30..31      0.083    195.5     77.5   0.3285   0.0176   0.0535    3.4    4.1
+  31..32      0.024    195.5     77.5   0.3285   0.0052   0.0157    1.0    1.2
+  32..33      0.167    195.5     77.5   0.3285   0.0353   0.1074    6.9    8.3
+  33..34      0.297    195.5     77.5   0.3285   0.0626   0.1905   12.2   14.8
+  34..16      0.435    195.5     77.5   0.3285   0.0919   0.2796   18.0   21.7
+  34..17      0.206    195.5     77.5   0.3285   0.0434   0.1320    8.5   10.2
+  33..35      1.618    195.5     77.5   0.3285   0.3413   1.0390   66.7   80.5
+  35..36      0.043    195.5     77.5   0.3285   0.0090   0.0275    1.8    2.1
+  36..37      0.011    195.5     77.5   0.3285   0.0022   0.0068    0.4    0.5
+  37..38      0.015    195.5     77.5   0.3285   0.0033   0.0099    0.6    0.8
+  38..7       0.124    195.5     77.5   0.3285   0.0262   0.0799    5.1    6.2
+  38..39      0.000    195.5     77.5   0.3285   0.0000   0.0000    0.0    0.0
+  39..9       0.025    195.5     77.5   0.3285   0.0052   0.0158    1.0    1.2
+  39..10      0.101    195.5     77.5   0.3285   0.0213   0.0649    4.2    5.0
+  37..11      0.078    195.5     77.5   0.3285   0.0165   0.0502    3.2    3.9
+  36..40      0.025    195.5     77.5   0.3285   0.0054   0.0163    1.0    1.3
+  40..6       0.045    195.5     77.5   0.3285   0.0094   0.0286    1.8    2.2
+  40..8       0.046    195.5     77.5   0.3285   0.0097   0.0297    1.9    2.3
+  35..41      0.000    195.5     77.5   0.3285   0.0000   0.0000    0.0    0.0
+  41..13      0.012    195.5     77.5   0.3285   0.0026   0.0078    0.5    0.6
+  41..12      0.021    195.5     77.5   0.3285   0.0045   0.0136    0.9    1.1
+  32..42      0.060    195.5     77.5   0.3285   0.0126   0.0385    2.5    3.0
+  42..15      0.558    195.5     77.5   0.3285   0.1177   0.3584   23.0   27.8
+  42..20      0.342    195.5     77.5   0.3285   0.0722   0.2198   14.1   17.0
+  31..43      0.000    195.5     77.5   0.3285   0.0000   0.0000    0.0    0.0
+  43..21      0.159    195.5     77.5   0.3285   0.0335   0.1020    6.5    7.9
+  43..18      0.314    195.5     77.5   0.3285   0.0662   0.2014   12.9   15.6
+  30..44      0.074    195.5     77.5   0.3285   0.0157   0.0478    3.1    3.7
+  44..45      0.000    195.5     77.5   0.3285   0.0000   0.0000    0.0    0.0
+  45..5       1.599    195.5     77.5   0.3285   0.3372   1.0265   65.9   79.5
+  45..19      0.485    195.5     77.5   0.3285   0.1023   0.3112   20.0   24.1
+  44..46      0.000    195.5     77.5   0.3285   0.0000   0.0000    0.0    0.0
+  46..47      1.512    195.5     77.5   0.3285   0.3190   0.9711   62.4   75.2
+  47..48      0.125    195.5     77.5   0.3285   0.0264   0.0804    5.2    6.2
+  48..1       0.027    195.5     77.5   0.3285   0.0057   0.0172    1.1    1.3
+  48..49      0.058    195.5     77.5   0.3285   0.0122   0.0372    2.4    2.9
+  49..3       0.036    195.5     77.5   0.3285   0.0076   0.0231    1.5    1.8
+  49..4       0.021    195.5     77.5   0.3285   0.0043   0.0132    0.8    1.0
+  47..2       0.000    195.5     77.5   0.3285   0.0000   0.0000    0.0    0.0
+  46..14      0.791    195.5     77.5   0.3285   0.1668   0.5078   32.6   39.4
+
+
+Tree comparisons (Kishino & Hasegawa 1989; Shimodaira & Hasegawa 1999)
+Number of replicates: 10000
+
+Time used: 24:38
+
+
+Model 8: beta&w>1 (11 categories)
+
+
+TREE #  1:  ((((25, 24), 23), 22), (((((16, 17), ((((7, (9, 10)), 11), (6, 8)), (13, 12))), (15, 20)), (21, 18)), ((5, 19), (((1, (3, 4)), 2), 14))));   MP score: -1
+This is a rooted tree.  Please check!
+lnL(ntime: 48  np: 53):  -2749.159451      +0.000000
+  26..27   27..28   28..29   29..25   29..24   28..23   27..22   26..30   30..31   31..32   32..33   33..34   34..16   34..17   33..35   35..36   36..37   37..38   38..7    38..39   39..9    39..10   37..11   36..40   40..6    40..8    35..41   41..13   41..12   32..42   42..15   42..20   31..43   43..21   43..18   30..44   44..45   45..5    45..19   44..46   46..47   47..48   48..1    48..49   49..3    49..4    47..2    46..14 
+ 0.068704 0.009987 0.023553 0.057444 0.055758 0.161116 0.047655 0.097391 0.082887 0.025609 0.163516 0.296438 0.436251 0.205777 1.636355 0.042707 0.010498 0.015352 0.124002 0.000004 0.024564 0.100780 0.077901 0.025310 0.044352 0.046024 0.000004 0.012156 0.021112 0.055900 0.561038 0.345029 0.000004 0.158458 0.314417 0.074890 0.000004 1.613914 0.482032 0.000004 1.526991 0.124640 0.026728 0.057712 0.035900 0.020489 0.000004 0.793327 2.908057 0.964701 0.523231 1.207554 1.377136
+SEs for parameters:
+ -1.000000 0.016447 0.024392 0.036071 0.048508 0.083312 0.033365 -1.000000 0.081307 0.034659 0.157585 0.164168 0.138980 0.083605 0.622397 0.089100 0.016614 0.034977 0.066905 0.148228 0.142634 0.064465 0.067090 0.035094 0.041736 0.039001 0.081039 0.014780 0.034043 0.052677 0.139261 0.135409 0.125070 0.070018 0.128020 0.082920 0.113128 0.733858 0.160823 0.291445 0.644670 0.108124 0.043280 0.045308 0.031373 0.150926 0.088837 0.296269 0.392713 0.156310 0.235948 1.164021 2.460591
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length = 10.104686
+
+((((25: 0.057444, 24: 0.055758): 0.023553, 23: 0.161116): 0.009987, 22: 0.047655): 0.068704, (((((16: 0.436251, 17: 0.205777): 0.296438, ((((7: 0.124002, (9: 0.024564, 10: 0.100780): 0.000004): 0.015352, 11: 0.077901): 0.010498, (6: 0.044352, 8: 0.046024): 0.025310): 0.042707, (13: 0.012156, 12: 0.021112): 0.000004): 1.636355): 0.163516, (15: 0.561038, 20: 0.345029): 0.055900): 0.025609, (21: 0.158458, 18: 0.314417): 0.000004): 0.082887, ((5: 1.613914, 19: 0.482032): 0.000004, (((1: 0.026728, (3: 0.035900, 4: 0.020489): 0.057712): 0.124640, 2: 0.000004): 1.526991, 14: 0.793327): 0.000004): 0.074890): 0.097391);
+
+((((Apteryx_rowi: 0.057444, Dromaius_novaehollandiae: 0.055758): 0.023553, Nothoprocta_perdicaria: 0.161116): 0.009987, Struthio_camelus_australis: 0.047655): 0.068704, (((((Melopsittacus_undulatus: 0.436251, Strigops_habroptila: 0.205777): 0.296438, ((((Camarhynchus_parvulus: 0.124002, (Lonchura_striata_domestica: 0.024564, Serinus_canaria: 0.100780): 0.000004): 0.015352, Corvus_moneduloides: 0.077901): 0.010498, (Ficedula_albicollis: 0.044352, Catharus_ustulatus: 0.046024): 0.025310): 0.042707, (Cyanistes_caeruleus: 0.012156, Parus_major: 0.021112): 0.000004): 1.636355): 0.163516, (Athene_cunicularia: 0.561038, Aquila_chrysaetos_chrysaetos: 0.345029): 0.055900): 0.025609, (Calidris_pugnax: 0.158458, Columba_livia: 0.314417): 0.000004): 0.082887, ((Anas_platyrhynchos: 1.613914, Anser_cygnoides_domesticus: 0.482032): 0.000004, (((Gallus_gallus: 0.026728, (Phasianus_colchicus: 0.035900, Meleagris_gallopavo: 0.020489): 0.057712): 0.124640, Coturnix_japonica: 0.000004): 1.526991, Numida_meleagris: 0.793327): 0.000004): 0.074890): 0.097391);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  2.90806
+
+Parameters in M8 (beta&w>1):
+  p0 =   0.96470  p =   0.52323 q =   1.20755
+ (p1 =   0.03530) w =   1.37714
+
+
+MLEs of dN/dS (w) for site classes (K=11)
+
+p:   0.09647  0.09647  0.09647  0.09647  0.09647  0.09647  0.09647  0.09647  0.09647  0.09647  0.03530
+w:   0.00260  0.02131  0.05684  0.10894  0.17791  0.26463  0.37065  0.49880  0.65462  0.85335  1.37714
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+  26..27      0.069    195.4     77.6   0.3390   0.0147   0.0435    2.9    3.4
+  27..28      0.010    195.4     77.6   0.3390   0.0021   0.0063    0.4    0.5
+  28..29      0.024    195.4     77.6   0.3390   0.0051   0.0149    1.0    1.2
+  29..25      0.057    195.4     77.6   0.3390   0.0123   0.0363    2.4    2.8
+  29..24      0.056    195.4     77.6   0.3390   0.0120   0.0353    2.3    2.7
+  28..23      0.161    195.4     77.6   0.3390   0.0346   0.1019    6.8    7.9
+  27..22      0.048    195.4     77.6   0.3390   0.0102   0.0302    2.0    2.3
+  26..30      0.097    195.4     77.6   0.3390   0.0209   0.0616    4.1    4.8
+  30..31      0.083    195.4     77.6   0.3390   0.0178   0.0524    3.5    4.1
+  31..32      0.026    195.4     77.6   0.3390   0.0055   0.0162    1.1    1.3
+  32..33      0.164    195.4     77.6   0.3390   0.0351   0.1035    6.9    8.0
+  33..34      0.296    195.4     77.6   0.3390   0.0636   0.1876   12.4   14.6
+  34..16      0.436    195.4     77.6   0.3390   0.0936   0.2760   18.3   21.4
+  34..17      0.206    195.4     77.6   0.3390   0.0441   0.1302    8.6   10.1
+  33..35      1.636    195.4     77.6   0.3390   0.3509   1.0353   68.6   80.3
+  35..36      0.043    195.4     77.6   0.3390   0.0092   0.0270    1.8    2.1
+  36..37      0.010    195.4     77.6   0.3390   0.0023   0.0066    0.4    0.5
+  37..38      0.015    195.4     77.6   0.3390   0.0033   0.0097    0.6    0.8
+  38..7       0.124    195.4     77.6   0.3390   0.0266   0.0785    5.2    6.1
+  38..39      0.000    195.4     77.6   0.3390   0.0000   0.0000    0.0    0.0
+  39..9       0.025    195.4     77.6   0.3390   0.0053   0.0155    1.0    1.2
+  39..10      0.101    195.4     77.6   0.3390   0.0216   0.0638    4.2    4.9
+  37..11      0.078    195.4     77.6   0.3390   0.0167   0.0493    3.3    3.8
+  36..40      0.025    195.4     77.6   0.3390   0.0054   0.0160    1.1    1.2
+  40..6       0.044    195.4     77.6   0.3390   0.0095   0.0281    1.9    2.2
+  40..8       0.046    195.4     77.6   0.3390   0.0099   0.0291    1.9    2.3
+  35..41      0.000    195.4     77.6   0.3390   0.0000   0.0000    0.0    0.0
+  41..13      0.012    195.4     77.6   0.3390   0.0026   0.0077    0.5    0.6
+  41..12      0.021    195.4     77.6   0.3390   0.0045   0.0134    0.9    1.0
+  32..42      0.056    195.4     77.6   0.3390   0.0120   0.0354    2.3    2.7
+  42..15      0.561    195.4     77.6   0.3390   0.1203   0.3550   23.5   27.5
+  42..20      0.345    195.4     77.6   0.3390   0.0740   0.2183   14.5   16.9
+  31..43      0.000    195.4     77.6   0.3390   0.0000   0.0000    0.0    0.0
+  43..21      0.158    195.4     77.6   0.3390   0.0340   0.1003    6.6    7.8
+  43..18      0.314    195.4     77.6   0.3390   0.0674   0.1989   13.2   15.4
+  30..44      0.075    195.4     77.6   0.3390   0.0161   0.0474    3.1    3.7
+  44..45      0.000    195.4     77.6   0.3390   0.0000   0.0000    0.0    0.0
+  45..5       1.614    195.4     77.6   0.3390   0.3461   1.0211   67.6   79.2
+  45..19      0.482    195.4     77.6   0.3390   0.1034   0.3050   20.2   23.7
+  44..46      0.000    195.4     77.6   0.3390   0.0000   0.0000    0.0    0.0
+  46..47      1.527    195.4     77.6   0.3390   0.3275   0.9661   64.0   75.0
+  47..48      0.125    195.4     77.6   0.3390   0.0267   0.0789    5.2    6.1
+  48..1       0.027    195.4     77.6   0.3390   0.0057   0.0169    1.1    1.3
+  48..49      0.058    195.4     77.6   0.3390   0.0124   0.0365    2.4    2.8
+  49..3       0.036    195.4     77.6   0.3390   0.0077   0.0227    1.5    1.8
+  49..4       0.020    195.4     77.6   0.3390   0.0044   0.0130    0.9    1.0
+  47..2       0.000    195.4     77.6   0.3390   0.0000   0.0000    0.0    0.0
+  46..14      0.793    195.4     77.6   0.3390   0.1701   0.5019   33.2   38.9
+
+
+Naive Empirical Bayes (NEB) analysis
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: Gallus_gallus)
+
+            Pr(w>1)     post mean +- SE for w
+
+     2 D      0.621         1.161
+    53 A      0.646         1.176
+
+
+Bayes Empirical Bayes (BEB) analysis (Yang, Wong & Nielsen 2005. Mol. Biol. Evol. 22:1107-1118)
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: Gallus_gallus)
+
+            Pr(w>1)     post mean +- SE for w
+
+     2 D      0.713         1.373 +- 0.436
+    53 A      0.725         1.378 +- 0.422
+
+
+
+The grid 
+
+p0:   0.050  0.150  0.250  0.350  0.450  0.550  0.650  0.750  0.850  0.950
+p :   0.100  0.300  0.500  0.700  0.900  1.100  1.300  1.500  1.700  1.900
+q :   0.100  0.300  0.500  0.700  0.900  1.100  1.300  1.500  1.700  1.900
+ws:   1.500  2.500  3.500  4.500  5.500  6.500  7.500  8.500  9.500 10.500
+
+
+Posterior on the grid
+
+p0:   0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.028  0.972
+p :   0.000  0.114  0.579  0.286  0.021  0.000  0.000  0.000  0.000  0.000
+q :   0.000  0.000  0.016  0.064  0.098  0.190  0.210  0.172  0.140  0.110
+ws:   0.875  0.077  0.012  0.006  0.005  0.005  0.005  0.005  0.005  0.005
+
+Tree comparisons (Kishino & Hasegawa 1989; Shimodaira & Hasegawa 1999)
+Number of replicates: 10000
+
+Time used: 46:00

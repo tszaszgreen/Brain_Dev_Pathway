@@ -1,0 +1,111 @@
+YN00      gli3.fasta
+
+ns =   2	ls =1513
+
+Codon position x base (3x4) table for each sequence.
+
+Gallus_gallus       
+position  1:    T:0.16391    C:0.25909    A:0.31725    G:0.25975
+position  2:    T:0.21084    C:0.27297    A:0.30535    G:0.21084
+position  3:    T:0.28553    C:0.27363    A:0.22538    G:0.21547
+
+Alligator_mississippiensis
+position  1:    T:0.16986    C:0.25512    A:0.32584    G:0.24917
+position  2:    T:0.21348    C:0.26702    A:0.31659    G:0.20291
+position  3:    T:0.30535    C:0.25182    A:0.23529    G:0.20753
+
+Average
+position  1:    T:0.16689    C:0.25711    A:0.32155    G:0.25446
+position  2:    T:0.21216    C:0.26999    A:0.31097    G:0.20687
+position  3:    T:0.29544    C:0.26272    A:0.23034    G:0.21150
+
+Codon usage for each species
+----------------------------------------------------------------------
+Phe TTT  18  19 | Ser TCT  46  44 | Tyr TAT  22  25 | Cys TGT  11  11
+    TTC  14  14 |     TCC  33  36 |     TAC  18  16 |     TGC  15  14
+Leu TTA  11  15 |     TCA  28  29 | *** TAA   0   0 | *** TGA   0   0
+    TTG  25  25 |     TCG   3   5 |     TAG   0   0 | Trp TGG   4   4
+----------------------------------------------------------------------
+Leu CTT  22  22 | Pro CCT  48  48 | His CAT  31  30 | Arg CGT   7  10
+    CTC  21  15 |     CCC  18  18 |     CAC  24  22 |     CGC  11   9
+    CTA   9  13 |     CCA  54  53 | Gln CAA  31  38 |     CGA   7   8
+    CTG  25  24 |     CCG  10   6 |     CAG  67  67 |     CGG   7   3
+----------------------------------------------------------------------
+Ile ATT  20  29 | Thr ACT  21  18 | Asn AAT  41  45 | Ser AGT  43  46
+    ATC  21  19 |     ACC  25  25 |     AAC  48  52 |     AGC  63  55
+    ATA  14  17 |     ACA  32  33 | Lys AAA  27  25 | Arg AGA  21  21
+Met ATG  46  52 |     ACG   8   4 |     AAG  23  26 |     AGG  27  26
+----------------------------------------------------------------------
+Val GTT  15  15 | Ala GCT  29  33 | Asp GAT  27  32 | Gly GGT  31  35
+    GTC  20  15 |     GCC  24  24 |     GAC  33  28 |     GGC  26  19
+    GTA  14  10 |     GCA  29  25 | Glu GAA  36  39 |     GGA  28  30
+    GTG  24  19 |     GCG   5   3 |     GAG  34  34 |     GGG  18  16
+----------------------------------------------------------------------
+
+
+Sums
+------------------------------------------------------
+Phe TTT  37 | Ser TCT  90 | Tyr TAT  47 | Cys TGT  22
+    TTC  28 |     TCC  69 |     TAC  34 |     TGC  29
+Leu TTA  26 |     TCA  57 | *** TAA   0 | *** TGA   0
+    TTG  50 |     TCG   8 |     TAG   0 | Trp TGG   8
+------------------------------------------------------
+Leu CTT  44 | Pro CCT  96 | His CAT  61 | Arg CGT  17
+    CTC  36 |     CCC  36 |     CAC  46 |     CGC  20
+    CTA  22 |     CCA 107 | Gln CAA  69 |     CGA  15
+    CTG  49 |     CCG  16 |     CAG 134 |     CGG  10
+------------------------------------------------------
+Ile ATT  49 | Thr ACT  39 | Asn AAT  86 | Ser AGT  89
+    ATC  40 |     ACC  50 |     AAC 100 |     AGC 118
+    ATA  31 |     ACA  65 | Lys AAA  52 | Arg AGA  42
+Met ATG  98 |     ACG  12 |     AAG  49 |     AGG  53
+------------------------------------------------------
+Val GTT  30 | Ala GCT  62 | Asp GAT  59 | Gly GGT  66
+    GTC  35 |     GCC  48 |     GAC  61 |     GGC  45
+    GTA  24 |     GCA  54 | Glu GAA  75 |     GGA  58
+    GTG  43 |     GCG   8 |     GAG  68 |     GGG  34
+------------------------------------------------------
+
+
+
+(A) Nei-Gojobori (1986) method
+
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+Gallus_gallus       
+Alligator_mississippiensis 0.1253 (0.0567 0.4526)
+
+
+(B) Yang & Nielsen (2000) method
+
+Yang Z, Nielsen R (2000) Estimating synonymous and nonsynonymous substitution rates under realistic evolutionary models. Mol. Biol. Evol. 17:32-43
+
+(equal weighting of pathways)
+
+seq. seq.     S       N        t   kappa   omega     dN +- SE    dS +- SE
+
+   2    1  1379.6  3159.4   0.4342  7.0846  0.1917 0.0634 +- 0.0047  0.3309 +- 0.0201
+
+
+(C) LWL85, LPB93 & LWLm methods
+
+Li W.-H., C.-I. Wu, Luo (1985) A new method for estimating synonymous and nonsynonymous rates of nucleotide substitutions considering the relative likelihood of nucleotide and codon changes. Mol. Biol. Evol. 2: 150-174.
+Li W-H (1993) Unbiased estimation of the rates of synonymous and nonsynonymous substitution. J. Mol. Evol. 36:96-99
+Pamilo P, Bianchi NO (1993) Evolution of the Zfx and Zfy genes - rates and interdependence between the genes. Mol. Biol. Evol. 10:271-281
+Yang Z (2006) Computational Molecular Evolution. Oxford University Press, Oxford. Eqs. 2.12 & 2.13
+
+2 (Alligator_mississippiensis) vs. 1 (Gallus_gallus)
+
+L(i):     2945.5     911.0     682.5  sum=   4539.0
+Ns(i):  134.0000  158.0000   95.0000  sum= 387.0000
+Nv(i):   39.0000   25.0000   95.0000  sum= 159.0000
+A(i):     0.0483    0.2203    0.1887
+B(i):     0.0134    0.0282    0.1631
+LWL85:  dS =  0.4471 dN =  0.0584 w = 0.1307 S =  986.2 N = 3552.8
+LWL85m: dS =  0.3765 dN =  0.0616 w = 0.1637 S = 1171.1 N = 3367.9 (rho = 0.536)
+LPB93:  dS =  0.3699 dN =  0.0652 w = 0.1764
+

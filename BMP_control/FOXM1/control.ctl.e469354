@@ -1,0 +1,11 @@
+/mnt/opt_lugh/sge/default/spool/lugh1/job_scripts/469354: line 1: seqfile: command not found
+/mnt/opt_lugh/sge/default/spool/lugh1/job_scripts/469354: line 2: treefile: command not found
+/mnt/opt_lugh/sge/default/spool/lugh1/job_scripts/469354: line 3: outfile: command not found
+/mnt/opt_lugh/sge/default/spool/lugh1/job_scripts/469354: line 5: noisy: command not found
+/mnt/opt_lugh/sge/default/spool/lugh1/job_scripts/469354: line 6: verbose: command not found
+/mnt/opt_lugh/sge/default/spool/lugh1/job_scripts/469354: line 6: 1:: command not found
+/mnt/opt_lugh/sge/default/spool/lugh1/job_scripts/469354: line 7: runmode: command not found
+/mnt/opt_lugh/sge/default/spool/lugh1/job_scripts/469354: line 7: 1:: command not found
+/mnt/opt_lugh/sge/default/spool/lugh1/job_scripts/469354: line 7: 2:: command not found
+/mnt/opt_lugh/sge/default/spool/lugh1/job_scripts/469354: line 8: syntax error near unexpected token `:PerturbationNNI'
+/mnt/opt_lugh/sge/default/spool/lugh1/job_scripts/469354: line 8: `                   * 3: StepwiseAddition; (4,5):PerturbationNNI; -2: pairwise'

@@ -1,0 +1,239 @@
+
+ 15         verbose | verbose                1.00
+  7         runmode | runmode                0.00
+  4         seqtype | seqtype                1.00
+ 13       CodonFreq | CodonFreq              1.00
+  9           clock | clock                  0.00
+ 18          aaDist | aaDist                 0.00
+ 16           model | model                  0.00
+ 20         NSsites | NSsites                8.00
+ 22           icode | icode                  0.00
+ 23           Mgene | Mgene                  0.00
+ 24       fix_kappa | fix_kappa              0.00
+ 25           kappa | kappa                  2.00
+ 26       fix_omega | fix_omega              1.00
+ 27           omega | omega                  1.00
+ 28       fix_alpha | fix_alpha              1.00
+ 29           alpha | alpha                  0.00
+ 30          Malpha | Malpha                 0.00
+ 31           ncatG | ncatG                  5.00
+ 11           getSE | getSE                  1.00
+ 12    RateAncestor | RateAncestor           0.00
+ 36      Small_Diff | Small_Diff             0.00
+  6       cleandata | cleandata              0.00
+  8          method | method                 0.00
+CODONML in paml version 4.9h, March 2018
+
+----------------------------------------------
+Phe F TTT | Ser S TCT | Tyr Y TAT | Cys C TGT
+      TTC |       TCC |       TAC |       TGC
+Leu L TTA |       TCA | *** * TAA | *** * TGA
+      TTG |       TCG |       TAG | Trp W TGG
+----------------------------------------------
+Leu L CTT | Pro P CCT | His H CAT | Arg R CGT
+      CTC |       CCC |       CAC |       CGC
+      CTA |       CCA | Gln Q CAA |       CGA
+      CTG |       CCG |       CAG |       CGG
+----------------------------------------------
+Ile I ATT | Thr T ACT | Asn N AAT | Ser S AGT
+      ATC |       ACC |       AAC |       AGC
+      ATA |       ACA | Lys K AAA | Arg R AGA
+Met M ATG |       ACG |       AAG |       AGG
+----------------------------------------------
+Val V GTT | Ala A GCT | Asp D GAT | Gly G GGT
+      GTC |       GCC |       GAC |       GGC
+      GTA |       GCA | Glu E GAA |       GGA
+      GTG |       GCG |       GAG |       GGG
+----------------------------------------------
+Nice code, uuh?
+
+
+Ambiguity character definition table:
+
+T (1): T 
+C (1): C 
+A (1): A 
+G (1): G 
+U (1): T 
+Y (2): T C 
+R (2): A G 
+M (2): C A 
+K (2): T G 
+S (2): C G 
+W (2): T A 
+H (3): T C A 
+B (3): T C G 
+V (3): C A G 
+D (3): T A G 
+- (4): T C A G 
+N (4): T C A G 
+? (4): T C A G 
+ns = 28  	ls = 3717
+Reading sequences, sequential format..
+Reading seq # 1: Coturnix_japonica       
+Reading seq # 2: Gallus_gallus       
+Reading seq # 3: Numida_meleagris       
+Reading seq # 4: Phasianus_colchicus       
+Reading seq # 5: Meleagris_gallopavo       
+Reading seq # 6: Anas_platyrhynchos       
+Reading seq # 7: Anser_cygnoides_domesticus       
+Reading seq # 8: Melopsittacus_undulatus       
+Reading seq # 9: Serinus_canaria       
+Reading seq #10: Hirundo_rustica       
+Reading seq #11: Lepidothrix_coronata       
+Reading seq #12: Camarhynchus_parvulus       
+Reading seq #13: Lonchura_striata_domestica       
+Reading seq #14: Taeniopygia_guttata       
+Reading seq #15: Ficedula_albicollis       
+Reading seq #16: Corvus_moneduloides       
+Reading seq #17: Catharus_ustulatus       
+Reading seq #18: Parus_major       
+Reading seq #19: Cyanistes_caeruleus       
+Reading seq #20: Strigops_habroptila       
+Reading seq #21: Calidris_pugnax       
+Reading seq #22: Athene_cunicularia       
+Reading seq #23: Columba_livia       
+Reading seq #24: Aquila_chrysaetos_chrysaetos       
+Reading seq #25: Nothoprocta_perdicaria       
+Reading seq #26: Dromaius_novaehollandiae       
+Reading seq #27: Struthio_camelus_australis       
+Reading seq #28: Apteryx_rowi       
+stop codon TGA in seq. #   2 (Gallus_gallus), nucleotide site 61stop codon TGA in seq. #  11 (Lepidothrix_coronata), nucleotide site 73stop codon TGA in seq. #   2 (Gallus_gallus), nucleotide site 79stop codon TAG in seq. #   1 (Coturnix_japonica), nucleotide site 349stop codon TGA in seq. #   8 (Melopsittacus_undulatus), nucleotide site 358stop codon TAA in seq. #   3 (Numida_meleagris), nucleotide site 415stop codon TAG in seq. #   2 (Gallus_gallus), nucleotide site 454stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 490stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 496stop codon TGA in seq. #   6 (Anas_platyrhynchos), nucleotide site 550stop codon TGA in seq. #  21 (Calidris_pugnax), nucleotide site 559stop codon TGA in seq. #   2 (Gallus_gallus), nucleotide site 562stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 589stop codon TGA in seq. #   3 (Numida_meleagris), nucleotide site 595stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 607stop codon TAA in seq. #   7 (Anser_cygnoides_domesticus), nucleotide site 613stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 646stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 682stop codon TAA in seq. #   1 (Coturnix_japonica), nucleotide site 811stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 823stop codon TAA in seq. #   1 (Coturnix_japonica), nucleotide site 832stop codon TGA in seq. #   2 (Gallus_gallus), nucleotide site 889stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 907stop codon TGA in seq. #  18 (Parus_major), nucleotide site 913stop codon TAA in seq. #   1 (Coturnix_japonica), nucleotide site 922stop codon TGA in seq. #   6 (Anas_platyrhynchos), nucleotide site 946stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 982stop codon TAA in seq. #   2 (Gallus_gallus), nucleotide site 1000stop codon TAA in seq. #  25 (Nothoprocta_perdicaria), nucleotide site 1018stop codon TAA in seq. #   1 (Coturnix_japonica), nucleotide site 1048stop codon TGA in seq. #   4 (Phasianus_colchicus), nucleotide site 1075stop codon TAA in seq. #   6 (Anas_platyrhynchos), nucleotide site 1090stop codon TAG in seq. #   1 (Coturnix_japonica), nucleotide site 1102stop codon TGA in seq. #   6 (Anas_platyrhynchos), nucleotide site 1105stop codon TAG in seq. #  28 (Apteryx_rowi), nucleotide site 1138stop codon TGA in seq. #  21 (Calidris_pugnax), nucleotide site 1150stop codon TAA in seq. #   3 (Numida_meleagris), nucleotide site 1174stop codon TAG in seq. #  16 (Corvus_moneduloides), nucleotide site 1183stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 1186stop codon TGA in seq. #   2 (Gallus_gallus), nucleotide site 1201stop codon TAG in seq. #  28 (Apteryx_rowi), nucleotide site 1204stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 1222stop codon TAG in seq. #  26 (Dromaius_novaehollandiae), nucleotide site 1270stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 1276stop codon TAG in seq. #  26 (Dromaius_novaehollandiae), nucleotide site 1294stop codon TAA in seq. #  20 (Strigops_habroptila), nucleotide site 1306stop codon TGA in seq. #   2 (Gallus_gallus), nucleotide site 1309stop codon TAA in seq. #   5 (Meleagris_gallopavo), nucleotide site 1333stop codon TGA in seq. #   4 (Phasianus_colchicus), nucleotide site 1351stop codon TGA in seq. #   6 (Anas_platyrhynchos), nucleotide site 1387stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 1444stop codon TAA in seq. #   1 (Coturnix_japonica), nucleotide site 1447stop codon TAA in seq. #   1 (Coturnix_japonica), nucleotide site 1480stop codon TAA in seq. #  27 (Struthio_camelus_australis), nucleotide site 1489stop codon TGA in seq. #   9 (Serinus_canaria), nucleotide site 1516stop codon TGA in seq. #  22 (Athene_cunicularia), nucleotide site 1615stop codon TAG in seq. #  25 (Nothoprocta_perdicaria), nucleotide site 1663stop codon TGA in seq. #   6 (Anas_platyrhynchos), nucleotide site 1717stop codon TGA in seq. #   6 (Anas_platyrhynchos), nucleotide site 1762stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 1780stop codon TAA in seq. #  22 (Athene_cunicularia), nucleotide site 1852stop codon TGA in seq. #   8 (Melopsittacus_undulatus), nucleotide site 1960stop codon TAG in seq. #  26 (Dromaius_novaehollandiae), nucleotide site 1999stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 2008stop codon TAG in seq. #   9 (Serinus_canaria), nucleotide site 2074stop codon TGA in seq. #   6 (Anas_platyrhynchos), nucleotide site 2077stop codon TAA in seq. #   1 (Coturnix_japonica), nucleotide site 2116stop codon TAA in seq. #   1 (Coturnix_japonica), nucleotide site 2131stop codon TAA in seq. #   6 (Anas_platyrhynchos), nucleotide site 2143stop codon TGA in seq. #  20 (Strigops_habroptila), nucleotide site 2191stop codon TGA in seq. #   3 (Numida_meleagris), nucleotide site 2197stop codon TAA in seq. #   6 (Anas_platyrhynchos), nucleotide site 2203stop codon TAG in seq. #  22 (Athene_cunicularia), nucleotide site 2239stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 2248stop codon TGA in seq. #   6 (Anas_platyrhynchos), nucleotide site 2278stop codon TGA in seq. #  22 (Athene_cunicularia), nucleotide site 2287stop codon TGA in seq. #  12 (Camarhynchus_parvulus), nucleotide site 2572stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 2578stop codon TAG in seq. #  22 (Athene_cunicularia), nucleotide site 2635stop codon TGA in seq. #   3 (Numida_meleagris), nucleotide site 2665stop codon TGA in seq. #   2 (Gallus_gallus), nucleotide site 2668stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 2710stop codon TAA in seq. #   1 (Coturnix_japonica), nucleotide site 2764stop codon TAG in seq. #  22 (Athene_cunicularia), nucleotide site 2791stop codon TGA in seq. #   6 (Anas_platyrhynchos), nucleotide site 2830stop codon TAG in seq. #  20 (Strigops_habroptila), nucleotide site 2836stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 2893stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 2944stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 2980stop codon TAG in seq. #  20 (Strigops_habroptila), nucleotide site 2998stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 3031stop codon TAG in seq. #  24 (Aquila_chrysaetos_chrysaetos), nucleotide site 3094stop codon TAA in seq. #   1 (Coturnix_japonica), nucleotide site 3166stop codon TGA in seq. #   1 (Coturnix_japonica), nucleotide site 3172stop codon TGA in seq. #  26 (Dromaius_novaehollandiae), nucleotide site 3193stop codon TAA in seq. #   7 (Anser_cygnoides_domesticus), nucleotide site 3202stop codon TAA in seq. #   6 (Anas_platyrhynchos), nucleotide site 3241stop codon TGA in seq. #   6 (Anas_platyrhynchos), nucleotide site 3250stop codon TGA in seq. #   4 (Phasianus_colchicus), nucleotide site 3268
+99 columns are converted into ??? because of stop codons
+Press Enter to continue
+Sequences read..
+Counting site patterns..  0:00
+Compressing,   1078 patterns at   1239 /   1239 sites (100.0%),  0:00
+Collecting fpatt[] & pose[],   1078 patterns at   1239 /   1239 sites (100.0%),  0:00
+35 ambiguous codons are seen in the data:
+ --- --C --G --T -CA -GA -GG -TA -TC -TT ??? A-- AA- AG- C-- CG- G-- T-- --A -AC CC- -CC -GT -TG -GC -CT TA- -CG A-A AMC TAY ACR YAG YGT RCA
+Counting codons..
+
+     3024 bytes for distance
+  1052128 bytes for conP
+    51744 bytes for fhK
+  5000000 bytes for space
+
+TREE #  1
+(((((((((7, 28), (25, (27, 26))), ((3, (1, (2, (5, 4)))), 6)), 23), (21, ((24, 22), (8, 20)))), 11), 16), 10), (((14, 13), (9, 12)), (18, 19)), (15, 17));   MP score: -1
+ 13677664 bytes for conP, adjusted
+
+1 node(s) used for scaling (Yang 2000 J Mol Evol 51:423-432):
+ 33
+
+    0.041132    0.036781    0.050066    0.015392    0.108474    0.101293    0.058479    0.078424    0.094837    0.043102    0.065842    0.071504    0.099773    0.069041    0.011095    0.044370    0.089308    0.015467    0.021327    0.059842    0.014172    0.059098    0.087383    0.103626    0.062702    0.109778    0.010856    0.103403    0.090595    0.033616    0.052147    0.043128    0.044703    0.029932    0.084299    0.033482    0.073065    0.060451    0.032267    0.074415    0.088351    0.104182    0.052336    0.020719    0.026912    0.086410    0.081354    0.036558    0.020628    0.105259    0.060481    0.099910    0.073733    2.000000    0.900000    0.642399    1.031415
+
+ntime & nrate & np:    53     1    57
+
+Bounds (np=57):
+   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000100   0.000010   0.005000   0.005000
+  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000 999.000000   0.999990  99.000000  99.000000
+Qfactor_NS = 7.364572
+
+np =    57
+lnL0 = -33208.271623
+
+Iterating by ming2
+Initial: fx= 33208.271623
+x=  0.04113  0.03678  0.05007  0.01539  0.10847  0.10129  0.05848  0.07842  0.09484  0.04310  0.06584  0.07150  0.09977  0.06904  0.01110  0.04437  0.08931  0.01547  0.02133  0.05984  0.01417  0.05910  0.08738  0.10363  0.06270  0.10978  0.01086  0.10340  0.09060  0.03362  0.05215  0.04313  0.04470  0.02993  0.08430  0.03348  0.07307  0.06045  0.03227  0.07441  0.08835  0.10418  0.05234  0.02072  0.02691  0.08641  0.08135  0.03656  0.02063  0.10526  0.06048  0.09991  0.07373  2.00000  0.90000  0.64240  1.03142
+
+  1 h-m-p  0.0000 0.0001 16698.9422 +YYC  31243.575351  2 0.0000    65 | 0/57
+  2 h-m-p  0.0000 0.0000 3055.5169 ++    30964.957406  m 0.0000   125 | 1/57
+  3 h-m-p  0.0000 0.0001 3032.3445 ++    30772.270721  m 0.0001   185 | 2/57
+  4 h-m-p  0.0000 0.0000 1377.0609 ++    30728.942700  m 0.0000   245 | 2/57
+  5 h-m-p  0.0000 0.0000 6144.4341 +YYCCC 30717.818378  4 0.0000   312 | 2/57
+  6 h-m-p  0.0000 0.0000 7687.6858 YCCCC 30695.818822  4 0.0000   379 | 2/57
+  7 h-m-p  0.0000 0.0002 921.1673 +YCC  30666.280385  2 0.0001   443 | 2/57
+  8 h-m-p  0.0000 0.0002 1002.5272 ++    30625.718331  m 0.0002   503 | 2/57
+  9 h-m-p  0.0000 0.0000 4783.0585 +CYC  30602.267155  2 0.0000   567 | 2/57
+ 10 h-m-p  0.0000 0.0002 3672.5268 YCCC  30570.296238  3 0.0001   632 | 2/57
+ 11 h-m-p  0.0000 0.0001 2109.6501 +YCYCC 30516.885221  4 0.0001   699 | 2/57
+ 12 h-m-p  0.0000 0.0000 6318.4025 +YCCC 30494.970444  3 0.0000   765 | 2/57
+ 13 h-m-p  0.0000 0.0002 2013.8778 +YCCC 30447.635098  3 0.0001   831 | 2/57
+ 14 h-m-p  0.0001 0.0004 754.1082 CCCC  30431.082543  3 0.0002   897 | 2/57
+ 15 h-m-p  0.0001 0.0004 732.9088 +CCC  30406.431975  2 0.0003   962 | 2/57
+ 16 h-m-p  0.0000 0.0001 1684.4759 ++    30390.000358  m 0.0001  1022 | 3/57
+ 17 h-m-p  0.0000 0.0001 1593.4753 +YCYCCC 30345.907593  5 0.0001  1091 | 3/57
+ 18 h-m-p  0.0000 0.0001 2242.9797 +YCCCC 30312.801945  4 0.0001  1159 | 3/57
+ 19 h-m-p  0.0000 0.0001 782.1177 +YCCC 30301.998176  3 0.0000  1225 | 3/57
+ 20 h-m-p  0.0000 0.0002 492.5680 CCCC  30295.989072  3 0.0001  1291 | 3/57
+ 21 h-m-p  0.0001 0.0006 425.9357 CCC   30291.620615  2 0.0001  1355 | 3/57
+ 22 h-m-p  0.0001 0.0015 532.6989 YCCC  30286.493641  3 0.0002  1420 | 3/57
+ 23 h-m-p  0.0002 0.0021 535.8990 CCC   30280.346327  2 0.0003  1484 | 3/57
+ 24 h-m-p  0.0002 0.0011 551.8917 YYC   30276.018075  2 0.0002  1546 | 3/57
+ 25 h-m-p  0.0002 0.0013 498.3409 CCCC  30269.602768  3 0.0003  1612 | 3/57
+ 26 h-m-p  0.0001 0.0007 741.1313 CCC   30263.951628  2 0.0002  1676 | 3/57
+ 27 h-m-p  0.0002 0.0009 654.3751 CCC   30257.775070  2 0.0002  1740 | 3/57
+ 28 h-m-p  0.0001 0.0004 657.2113 CCCC  30254.222061  3 0.0001  1806 | 3/57
+ 29 h-m-p  0.0002 0.0009 522.4091 YCCC  30252.285752  3 0.0001  1871 | 3/57
+ 30 h-m-p  0.0002 0.0010 384.7395 CC    30250.787314  1 0.0001  1933 | 3/57
+ 31 h-m-p  0.0002 0.0010 190.0755 YC    30250.140884  1 0.0001  1994 | 3/57
+ 32 h-m-p  0.0003 0.0026  82.5651 YC    30249.869149  1 0.0002  2055 | 3/57
+ 33 h-m-p  0.0003 0.0042  36.6743 CC    30249.802803  1 0.0001  2117 | 3/57
+ 34 h-m-p  0.0003 0.0088  17.1606 CC    30249.761588  1 0.0002  2179 | 3/57
+ 35 h-m-p  0.0002 0.0250  15.9890 YC    30249.665599  1 0.0004  2240 | 3/57
+ 36 h-m-p  0.0002 0.0123  27.4344 YC    30249.403078  1 0.0005  2301 | 3/57
+ 37 h-m-p  0.0002 0.0058  82.6503 +YCC  30248.389037  2 0.0005  2365 | 3/57
+ 38 h-m-p  0.0001 0.0033 298.1429 +CCC  30241.615413  2 0.0008  2430 | 3/57
+ 39 h-m-p  0.0002 0.0017 1389.8029 CCC   30231.154795  2 0.0003  2494 | 3/57
+ 40 h-m-p  0.0001 0.0006 1271.9582 CCCC  30226.009908  3 0.0002  2560 | 3/57
+ 41 h-m-p  0.0002 0.0011 514.7204 YC    30224.594630  1 0.0001  2621 | 3/57
+ 42 h-m-p  0.0006 0.0051  99.4747 CC    30224.264853  1 0.0002  2683 | 3/57
+ 43 h-m-p  0.0005 0.0124  37.4329 CC    30224.201199  1 0.0002  2745 | 3/57
+ 44 h-m-p  0.0004 0.0180  14.6497 CC    30224.183401  1 0.0002  2807 | 3/57
+ 45 h-m-p  0.0005 0.0673   5.6462 CC    30224.159406  1 0.0005  2869 | 3/57
+ 46 h-m-p  0.0004 0.0244   8.2414 +YC   30224.039354  1 0.0009  2931 | 3/57
+ 47 h-m-p  0.0001 0.0244  50.5045 ++YC  30222.309522  1 0.0018  2994 | 3/57
+ 48 h-m-p  0.0002 0.0027 545.1221 YC    30218.381236  1 0.0004  3055 | 3/57
+ 49 h-m-p  0.0003 0.0021 812.0472 YC    30210.188266  1 0.0005  3116 | 3/57
+ 50 h-m-p  0.0003 0.0016 560.4680 YC    30208.783996  1 0.0001  3177 | 3/57
+ 51 h-m-p  0.0009 0.0061  93.9729 YC    30208.558220  1 0.0002  3238 | 3/57
+ 52 h-m-p  0.0013 0.0207  11.0538 -YC   30208.548969  1 0.0002  3300 | 3/57
+ 53 h-m-p  0.0002 0.0519   7.3593 C     30208.544208  0 0.0002  3360 | 3/57
+ 54 h-m-p  0.0011 0.0954   1.4334 YC    30208.541640  1 0.0006  3421 | 3/57
+ 55 h-m-p  0.0005 0.1858   1.6322 +CC   30208.501302  1 0.0026  3484 | 3/57
+ 56 h-m-p  0.0004 0.0622  11.0916 +YC   30207.815496  1 0.0034  3546 | 3/57
+ 57 h-m-p  0.0004 0.0072 100.4059 +YC   30205.681306  1 0.0011  3608 | 3/57
+ 58 h-m-p  0.0008 0.0042 130.3867 CC    30205.198450  1 0.0002  3670 | 3/57
+ 59 h-m-p  0.2942 8.0000   0.0985 +CC   30203.816559  1 1.8565  3733 | 3/57
+ 60 h-m-p  1.4758 8.0000   0.1239 YCC   30202.348837  2 2.6951  3850 | 3/57
+ 61 h-m-p  0.9730 8.0000   0.3431 YC    30200.614435  1 2.1428  3965 | 3/57
+ 62 h-m-p  1.6000 8.0000   0.4038 CCC   30199.049148  2 2.0486  4083 | 3/57
+ 63 h-m-p  1.6000 8.0000   0.4554 CCC   30198.041171  2 2.2756  4201 | 3/57
+ 64 h-m-p  1.6000 8.0000   0.5110 CCC   30197.251321  2 2.1885  4319 | 3/57
+ 65 h-m-p  1.6000 8.0000   0.5536 CC    30196.578256  1 2.4289  4435 | 3/57
+ 66 h-m-p  1.6000 8.0000   0.6086 CC    30195.998425  1 2.2459  4551 | 3/57
+ 67 h-m-p  1.6000 8.0000   0.5871 CC    30195.642587  1 1.8178  4667 | 3/57
+ 68 h-m-p  1.6000 8.0000   0.4972 CCC   30195.350752  2 2.5143  4785 | 3/57
+ 69 h-m-p  1.6000 8.0000   0.5115 CC    30195.171376  1 1.8227  4901 | 3/57
+ 70 h-m-p  1.3665 8.0000   0.6823 CC    30195.086609  1 1.7502  5017 | 3/57
+ 71 h-m-p  1.4027 8.0000   0.8513 YC    30194.968275  1 3.4038  5132 | 3/57
+ 72 h-m-p  1.6000 8.0000   1.6409 CC    30194.894828  1 1.4939  5248 | 3/57
+ 73 h-m-p  1.6000 8.0000   1.4003 C     30194.863154  0 1.7958  5308 | 3/57
+ 74 h-m-p  1.6000 8.0000   1.0173 C     30194.852318  0 1.6000  5368 | 3/57
+ 75 h-m-p  1.6000 8.0000   0.8593 C     30194.849270  0 1.6000  5428 | 3/57
+ 76 h-m-p  1.6000 8.0000   0.4123 Y     30194.848686  0 1.1347  5542 | 3/57
+ 77 h-m-p  1.6000 8.0000   0.1153 C     30194.848569  0 1.9669  5656 | 3/57
+ 78 h-m-p  1.6000 8.0000   0.0225 Y     30194.848399  0 3.9546  5770 | 3/57
+ 79 h-m-p  0.9224 8.0000   0.0963 +Y    30194.848155  0 3.0342  5885 | 3/57
+ 80 h-m-p  1.6000 8.0000   0.1020 +Y    30194.847739  0 4.9377  6000 | 3/57
+ 81 h-m-p  1.6000 8.0000   0.0182 C     30194.847292  0 2.4572  6114 | 3/57
+ 82 h-m-p  1.6000 8.0000   0.0008 Y     30194.847244  0 1.2407  6228 | 3/57
+ 83 h-m-p  0.0504 8.0000   0.0200 ++C   30194.847240  0 1.1430  6344 | 3/57
+ 84 h-m-p  1.6000 8.0000   0.0005 C     30194.847240  0 1.6000  6458 | 3/57
+ 85 h-m-p  1.1752 8.0000   0.0007 C     30194.847240  0 1.1752  6572 | 3/57
+ 86 h-m-p  0.2633 8.0000   0.0030 Y     30194.847240  0 0.0658  6686 | 3/57
+ 87 h-m-p  1.6000 8.0000   0.0001 --------C 30194.847240  0 0.0000  6808 | 3/57
+ 88 h-m-p  0.0160 8.0000   0.0001 --Y   30194.847240  0 0.0003  6924
+Out..
+lnL  = -30194.847240
+6925 lfun, 48475 eigenQcodon, 2202150 P(t)
+Calculating SE's
+
+Warning: Hessian matrix may be unreliable for zero branch lengths
+end of tree file.
+
+Tree comparisons (Kishino & Hasegawa 1989; Shimodaira & Hasegawa 1999)
+	Reading lnf for tree # 1	Reading lnf for tree # 2
+err: lnf, reading tree 2.
+Time used: 1:15:32

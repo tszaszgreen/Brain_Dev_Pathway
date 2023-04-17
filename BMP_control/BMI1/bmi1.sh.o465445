@@ -1,0 +1,68 @@
+
+CODONML in paml version 4.9h, March 2018
+
+----------------------------------------------
+Phe F TTT | Ser S TCT | Tyr Y TAT | Cys C TGT
+      TTC |       TCC |       TAC |       TGC
+Leu L TTA |       TCA | *** * TAA | *** * TGA
+      TTG |       TCG |       TAG | Trp W TGG
+----------------------------------------------
+Leu L CTT | Pro P CCT | His H CAT | Arg R CGT
+      CTC |       CCC |       CAC |       CGC
+      CTA |       CCA | Gln Q CAA |       CGA
+      CTG |       CCG |       CAG |       CGG
+----------------------------------------------
+Ile I ATT | Thr T ACT | Asn N AAT | Ser S AGT
+      ATC |       ACC |       AAC |       AGC
+      ATA |       ACA | Lys K AAA | Arg R AGA
+Met M ATG |       ACG |       AAG |       AGG
+----------------------------------------------
+Val V GTT | Ala A GCT | Asp D GAT | Gly G GGT
+      GTC |       GCC |       GAC |       GGC
+      GTA |       GCA | Glu E GAA |       GGA
+      GTG |       GCG |       GAG |       GGG
+----------------------------------------------
+Nice code, uuh?
+NSsites batch run (ncatG as in YNGP2000):   0  1  2  7  8
+ns = 20  	ls = 990
+Reading sequences, sequential format..
+Reading seq # 1: Phasianus_colchicus       
+Reading seq # 2: Coturnix_japonica       
+Reading seq # 3: Struthio_camelus_australis       
+Reading seq # 4: Columba_livia       
+Reading seq # 5: Ficedula_albicollis       
+Reading seq # 6: Lonchura_striata_domestica       
+Reading seq # 7: Melopsittacus_undulatus       
+Reading seq # 8: Anser_cygnoides_domesticus       
+Reading seq # 9: Anas_platyrhynchos       
+Reading seq #10: Catharus_ustulatus       
+Reading seq #11: Cyanistes_caeruleus       
+Reading seq #12: Serinus_canaria       
+Reading seq #13: Taeniopygia_guttata       
+Reading seq #14: Hirundo_rustica       
+Reading seq #15: Lepidothrix_coronata       
+Reading seq #16: Strigops_habroptila       
+Reading seq #17: Aquila_chrysaetos_chrysaetos       
+Reading seq #18: Nothoprocta_perdicaria       
+Reading seq #19: Athene_cunicularia       
+Reading seq #20: Gallus_gallus       
+stop codon TAG in seq. #  19 (Athene_cunicularia), nucleotide site 211
+ 1 columns are converted into ??? because of stop codons
+Press Enter to continue
+Sequences read..
+Counting site patterns..  0:00
+Compressing,    269 patterns at    330 /    330 sites (100.0%),  0:00
+Collecting fpatt[] & pose[],    269 patterns at    330 /    330 sites (100.0%),  0:00
+4 ambiguous codons are seen in the data:
+ --- ??? NNA CCR
+Counting codons..
+
+     1520 bytes for distance
+   262544 bytes for conP
+    23672 bytes for fhK
+  5000000 bytes for space
+
+
+Model 0: one-ratio
+
+Species Struthio_camelus?

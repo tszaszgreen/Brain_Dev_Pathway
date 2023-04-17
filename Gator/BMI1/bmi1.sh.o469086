@@ -1,0 +1,18 @@
+YN00 in paml version 4.9h, March 2018
+
+Reading options from bmi1.ctl..
+
+
+processing fasta file
+reading seq# 1 Gallus_gallus                                          981 sites
+reading seq# 2 Alligator_mississippiensis                             981 sitesns = 2  	ls = 981
+Reading sequences, sequential format..
+Counting site patterns..  0:00
+Compressing,    114 patterns at    327 /    327 sites (100.0%),  0:00
+Collecting fpatt[] & pose[],    114 patterns at    327 /    327 sites (100.0%),  0:00
+
+stop codon TGA in seq # 1: Gallus_gallus
+
+codons in other sequences are
+seq # 1 Gallus_gallus                  TGA
+seq # 2 Alligator_mississippiensis     TGA
